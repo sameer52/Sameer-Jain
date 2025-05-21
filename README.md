@@ -15,10 +15,10 @@ Each folder in this repository is a self-contained project demonstrating specifi
 ### 🖥️ Custom ITX PC Case  
 Parametric small form factor case designed for thermal optimization and efficient component layout.
 
-  💡 Solid modeling · Airflow optimization · Thermal analysis · 3D printing  
-  🧰 SolidWorks · FreeCAD · CFD tools · FDM printer  
+>💡 Solid modeling · Airflow optimization · Thermal analysis · 3D printing  
+>🧰 SolidWorks · FreeCAD · CFD tools · FDM printer  
 
->>
+⸻
 
 ### 🤖 Smart Electric Lawnmower  
 Chassis and control system for a semi-autonomous electric mower.
@@ -26,7 +26,7 @@ Chassis and control system for a semi-autonomous electric mower.
   🛠️ Weldment design · Embedded control logic · Power integration  
   🔌 Arduino · SolidWorks · Sensor interfacing · Motor control
 
-⸻⸻⸻
+⸻
 
 ### 🛠️ Custom PCB Designs  
 Designed and prototyped various control and sensor breakout boards.
@@ -34,7 +34,7 @@ Designed and prototyped various control and sensor breakout boards.
   🔧 Circuit layout · Signal routing · Communication protocols (I2C, UART)  
   🧰 KiCad · Fritzing · Soldering tools
 
-⸻ ⸻ ⸻ ⸻
+⸻
 
 ### 📊🌐 Java Web Scraper + Excel Automation  
 Automated scraping of serial data and structured Excel reporting.
@@ -42,7 +42,7 @@ Automated scraping of serial data and structured Excel reporting.
   🧠 Web automation · Data parsing · Test-driven development  
   🧰 Java · Selenium · Apache POI · TestNG · IntelliJ · Gradle
 
----
+⸻
 
 ### 🧪 Simulation & Analysis Projects  
 Validation of mechanical designs through simulation and modeling.
@@ -50,7 +50,7 @@ Validation of mechanical designs through simulation and modeling.
   📈 Stress & modal analysis · Dynamic system modeling · Thermal behavior  
   🧰 SolidWorks Simulation · MATLAB · Numerical methods
 
----
+⸻
 
 ### 🐧 Linux Desktop Environment Experiments  
 Exploration of custom workflows through Linux DE customization and scripting.
