@@ -1,7 +1,7 @@
 REMOVE THESE
 
 ![Example Badge](https://img.shields.io/badge/Skill-Python-blue)
-![Example Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![Example Badge](https://img.shields.io/badge/just_the_message-8A2BE2)
 
 \REMOVE THESE
 
@@ -21,12 +21,12 @@ Each folder in this repository is a self-contained project demonstrating specifi
 ### 🤖 Autonomous Lawnmower  
 Chassis and control system for a semi-autonomous electric mower.
 
-![Skills](https://img.shields.io/badge/weldment%20design-656565)
-![Skills](https://img.shields.io/badge/Embedded%20Control%20Logic-656565)
-![Skills](https://img.shields.io/badge/Power%20Integration-656565)  
+![Skills](https://img.shields.io/badge/weldment_design-656565)
+![Skills](https://img.shields.io/badge/Embedded_Control_Logic-656565)
+![Skills](https://img.shields.io/badge/Power_Integration-656565)  
 ![Tool](https://img.shields.io/badge/Arduino-02699C)
 ![Tool](https://img.shields.io/badge/Solidworks-02699C)
-![Tool](https://img.shields.io/badge/Sensor%20Fusion-02699C)
+![Tool](https://img.shields.io/badge/Sensor_Fusion-02699C)
   
 
 <h3>
@@ -35,14 +35,14 @@ Chassis and control system for a semi-autonomous electric mower.
 </h3>
 <p>Parametric small form factor case designed for thermal optimization and efficient component layout.</p>
 
-![Badge](https://img.shields.io/badge/Solid%20Modeling-656565)
-![Badge](https://img.shields.io/badge/Airflow%20Optimization-656565)
-![Badge](https://img.shields.io/badge/Thermal%20Analysis-656565)
-![Badge](https://img.shields.io/badge/3D%20Printing-656565)  
-![Badge](https://img.shields.io/badge/Solidworks-02699C)
-![Badge](https://img.shields.io/badge/FreeCAD-02699C)
-![Badge](https://img.shields.io/badge/CFD%20Tools-02699C)
-![Badge](https://img.shields.io/badge/FDM%203D%20Printer-02699C)
+![Skills](https://img.shields.io/badge/Solid_Modeling-656565)
+![Skills](https://img.shields.io/badge/Airflow_Optimization-656565)
+![Skills](https://img.shields.io/badge/Thermal_Analysis-656565)
+![Skills](https://img.shields.io/badge/3D_Printing-656565)  
+![Tool](https://img.shields.io/badge/Solidworks-02699C)
+![Tool](https://img.shields.io/badge/SW_Fluid_Simulation-02699C)
+![Tool](https://img.shields.io/badge/FDM_3D_Printer-02699C)
+![Tool](https://img.shields.io/badge/FreeCAD-02699C)
   
 
 ### 📊🌐 Java Web Scraper + Excel Automation  
@@ -55,9 +55,19 @@ Automated scraping of serial data and structured Excel reporting.
 ### 🐧 Linux Desktop Environment Experiments  
 Exploration of custom workflows through Linux DE customization and scripting.
 
->🐧 Pop!_OS · KDE Neon · Ubuntu · Kubuntu · SolosOS · ChromeOS · Windows 10/11  
->⚙️ Shell scripting · UI behavior tuning · Boot and startup automation  
->🧰 XFCE · Bash · Dual-boot config
+![Distro](https://img.shields.io/badge/Pop!_OS-656565)
+![Distro](https://img.shields.io/badge/KDE_Neon-656565)
+![Distro](https://img.shields.io/badge/Ubuntu-656565)
+![Distro](https://img.shields.io/badge/Kubuntu-656565)
+![Distro](https://img.shields.io/badge/SolosOS-656565)
+![Distro](https://img.shields.io/badge/ChromeOS-656565)
+![Distro](https://img.shields.io/badge/Windows_10/11-656565)  
+![Skills](https://img.shields.io/badge/Shell_Scripting-656565)
+![Skills](https://img.shields.io/badge/UI_Behavior_Tuning-656565)
+![Skills](https://img.shields.io/badge/Boot_and_startup_automation-656565)
+![Tool](https://img.shields.io/badge/XFCE-B5D710)
+![Tool](https://img.shields.io/badge/Bash-B5D710)
+![Tool](https://img.shields.io/badge/Dual-boot_Config-B5D710)  
   
 
 ### 🧪 Simulation & Analysis Projects  
