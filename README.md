@@ -47,16 +47,17 @@ Automated scraping of serial data and structured Excel reporting.
 ### 🧪 Simulation & Analysis Projects  
 Validation of mechanical designs through simulation and modeling.
 
-📈 Stress & modal analysis · Dynamic system modeling · Thermal behavior  
-🧰 SolidWorks Simulation · MATLAB · Numerical methods
+  📈 Stress & modal analysis · Dynamic system modeling · Thermal behavior  
+  🧰 SolidWorks Simulation · MATLAB · Numerical methods
 
 ---
 
 ### 🐧 Linux Desktop Environment Experiments  
 Exploration of custom workflows through Linux DE customization and scripting.
 
-⚙️ Shell scripting · UI behavior tuning · Boot and startup automation  
-🧰 Pop!_OS · KDE Neon · XFCE · Bash · Dual-boot config
+  🐧 Pop!_OS · KDE Neon · Ubuntu · Kubuntu · SolosOS · ChromeOS · Windows 10/11
+  ⚙️ Shell scripting · UI behavior tuning · Boot and startup automation  
+  🧰 XFCE · Bash · Dual-boot config
 
 ---
 
