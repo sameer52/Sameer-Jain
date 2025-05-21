@@ -105,7 +105,7 @@ Check out each project folder for images, videos, 3D renders, wiring diagrams, s
 ## 📫 Contact
 
 - **Email**: sameerj5252@gmail.com
-- **LinkedIn**: [linkedin.com/in/sameerjain](https://www.linkedin.com/in/sameerjain0841/)
+- **LinkedIn**: [linkedin.com/in/sameerjain](https://www.linkedin.com/in/sameerjain0841/)  
 <**Website**: [sameerjain.dev](https://sameerjain.dev) (placeholder)>
 
 ---
