@@ -51,13 +51,13 @@ Exploration of custom workflows through Linux DE customization and scripting.
 >⚙️ Shell scripting · UI behavior tuning · Boot and startup automation  
 >🧰 XFCE · Bash · Dual-boot config
 
+<br>
+
 ### 🧪 Simulation & Analysis Projects  
 Validation of mechanical designs through simulation and modeling.
 
 >📈 Stress & modal analysis · Dynamic system modeling · Thermal behavior  
 >🧰 SolidWorks Simulation · MATLAB · Numerical methods
-
-<br>
 
 ---
 
