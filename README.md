@@ -16,7 +16,9 @@ Chassis and control system for a semi-autonomous electric mower.
 
 | 🛠️ Category | Weldment Design | Embedded Control Logic | Power Integration |
 |:-----------:|:----------------:|:----------------------:|:-----------------:|
+
 <br>
+
 | 🔌 Tools    | Arduino          | SolidWorks             | Sensor Interfacing |
 |:-----------:|:----------------:|:----------------------:|:------------------:|
 
