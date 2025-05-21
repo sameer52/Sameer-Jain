@@ -1,3 +1,10 @@
+REMOVE THESE
+
+![Example Badge](https://img.shields.io/badge/Skill-Python-blue)
+![Example Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+
+\REMOVE THESE
+
 # 🧠 Engineering Portfolio – Sameer Jain
 
 Welcome to my Engineering Portfolio.
@@ -14,34 +21,28 @@ Each folder in this repository is a self-contained project demonstrating specifi
 ### 🤖 Autonomous Lawnmower  
 Chassis and control system for a semi-autonomous electric mower.
 
-!flat[Example Badge](https://img.shields.io/badge/weldment%20design-656565)
-![Example Badge](https://img.shields.io/badge/Embedded%20Control%20Logic-656565)
-![Example Badge](https://img.shields.io/badge/Power%20Integration-656565)
+![Badge](https://img.shields.io/badge/weldment%20design-656565)
+![Badge](https://img.shields.io/badge/Embedded%20Control%20Logic-656565)
+![Badge](https://img.shields.io/badge/Power%20Integration-656565)
 
-![Example Badge](https://img.shields.io/badge/Arduino-8A2BE2)
-![Example Badge](https://img.shields.io/badge/Solidworks-8A2BE2)
-![Example Badge](https://img.shields.io/badge/Sensor%20Fusion-8A2BE2)
-
-![Example Badge](https://img.shields.io/badge/Skill-Python-blue)
-![Example Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
-
-<br>
+![Badge](https://img.shields.io/badge/Arduino-8A2BE2)
+![Badge](https://img.shields.io/badge/Solidworks-8A2BE2)
+![Badge](https://img.shields.io/badge/Sensor%20Fusion-8A2BE2)
+  
 
 ### 🖥️ Custom ITX PC Case  
 Parametric small form factor case designed for thermal optimization and efficient component layout.
 
 >💡 Solid modeling · Airflow optimization · Thermal analysis · 3D printing  
 >🧰 SolidWorks · FreeCAD · CFD tools · FDM printer  
-
-<br>
+  
 
 ### 📊🌐 Java Web Scraper + Excel Automation  
 Automated scraping of serial data and structured Excel reporting.
 
 >🧠 Web automation · Data parsing · Test-driven development  
 >🧰 Java · Selenium · Apache POI · TestNG · IntelliJ · Gradle
-
-<br>
+  
 
 ### 🐧 Linux Desktop Environment Experiments  
 Exploration of custom workflows through Linux DE customization and scripting.
@@ -49,16 +50,14 @@ Exploration of custom workflows through Linux DE customization and scripting.
 >🐧 Pop!_OS · KDE Neon · Ubuntu · Kubuntu · SolosOS · ChromeOS · Windows 10/11  
 >⚙️ Shell scripting · UI behavior tuning · Boot and startup automation  
 >🧰 XFCE · Bash · Dual-boot config
-
-<br>
+  
 
 ### 🧪 Simulation & Analysis Projects  
 Validation of mechanical designs through simulation and modeling.
 
 >📈 Stress & modal analysis · Dynamic system modeling · Thermal behavior  
 >🧰 SolidWorks Simulation · MATLAB · Numerical methods
-
-<br>
+  
 
 ### 🛠️ Custom PCB Designs  
 Designed and prototyped various control and sensor breakout boards.
