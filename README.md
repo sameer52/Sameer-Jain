@@ -109,7 +109,7 @@ This repository is intended for educational and portfolio purposes only. For com
 ## 📫 Contact
 
 - **Email**: sameerj5252@gmail.com  
-- **LinkedIn**: [https://linkedin.com/in/sameerjain](https://www.linkedin.com/in/sameerjain0841/)  
+- **LinkedIn**: [https://linkedin.com/in/sameerjain](https://www.linkedin.com/in/sameerjain0841/) 
 - **Resume & Website**: [sameerjain.dev](https://sameerjain.dev) (placeholder)
 
 ---
