@@ -24,16 +24,22 @@ Chassis and control system for a semi-autonomous electric mower.
 ![Badge](https://img.shields.io/badge/weldment%20design-656565)
 ![Badge](https://img.shields.io/badge/Embedded%20Control%20Logic-656565)
 ![Badge](https://img.shields.io/badge/Power%20Integration-656565)  
-![Badge](https://img.shields.io/badge/Arduino-50B6F2)
-![Badge](https://img.shields.io/badge/Solidworks-50B6F2)
-![Badge](https://img.shields.io/badge/Sensor%20Fusion-50B6F2)
+![Badge](https://img.shields.io/badge/Arduino-02699C)
+![Badge](https://img.shields.io/badge/Solidworks-02699C)
+![Badge](https://img.shields.io/badge/Sensor%20Fusion-02699C)
   
 
 ### 🖥️ Custom ITX PC Case  
 Parametric small form factor case designed for thermal optimization and efficient component layout.
 
->💡 Solid modeling · Airflow optimization · Thermal analysis · 3D printing  
->🧰 SolidWorks · FreeCAD · CFD tools · FDM printer  
+![Badge](https://img.shields.io/badge/Solid%20Modeling-656565)
+![Badge](https://img.shields.io/badge/Airflow%20Optimization-656565)
+![Badge](https://img.shields.io/badge/Thermal%20Analysis-656565)
+![Badge](https://img.shields.io/badge/3D%20Printing-656565)  
+![Badge](https://img.shields.io/badge/Solidworks-02699C)
+![Badge](https://img.shields.io/badge/FreeCAD-02699C)
+![Badge](https://img.shields.io/badge/CFD%20Tools-02699C)
+![Badge](https://img.shields.io/badge/FDM%203D%20Printer-02699C)
   
 
 ### 📊🌐 Java Web Scraper + Excel Automation  
