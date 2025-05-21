@@ -14,19 +14,18 @@ Each folder in this repository is a self-contained project demonstrating specifi
 ### 🤖 Autonomous Lawnmower  
 Chassis and control system for a semi-autonomous electric mower.
 
-> 
+![Example Badge](https://img.shields.io/badge/weldment%20design-656565)
+![Example Badge](https://img.shields.io/badge/Embedded%20Control%20Logic-656565)
+![Example Badge](https://img.shields.io/badge/Power%20Integration-656565)
 
-![Example Badge](https://img.shields.io/badge/weldment%20design-808080)
-![Example Badge](https://img.shields.io/badge/Embedded%20Control%20Logic-808080)
-![Example Badge](https://img.shields.io/badge/Power%20Integration-8A2BE2)
-
-> Arduino · SolidWorks · Sensor Interfacing
+[Example Badge](https://img.shields.io/badge/Arduino-8A2BE2)
+![Example Badge](https://img.shields.io/badge/Solidworks-8A2BE2)
+![Example Badge](https://img.shields.io/badge/Sensor%20Fusion-8A2BE2)
 
 ![Example Badge](https://img.shields.io/badge/Skill-Python-blue)
 ![Example Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 <br>
-
 
 ### 🖥️ Custom ITX PC Case  
 Parametric small form factor case designed for thermal optimization and efficient component layout.
