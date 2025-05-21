@@ -6,67 +6,69 @@ This repository showcases a diverse range of engineering projects that integrate
 
 ---
 
-## 📂 Repository Structure
+# 📂 Projects & Technical Skills
 
-Each folder in this repository represents a self-contained project or a thematic group of related work. Most projects include design files, code, simulation models, and technical documentation.
-
-### 🔧 Mechanical Design & CAD
-- **Custom ITX PC Case**  
-  Fully parametric compact case designed in SolidWorks and FreeCAD for airflow optimization and spatial efficiency.
-- **Smart Electric Lawnmower Frame**  
-  Steel frame and chassis design using SolidWorks Weldments, designed for integration with sensors and autonomous drive.
-
-### 📐 Simulation & Analysis
-- **Finite Element Analysis (FEA)**  
-  Structural simulations for stress, deformation, and modal analysis using SolidWorks Simulation.
-- **Computational Fluid Dynamics (CFD)**  
-  Simulations of airflow in PC enclosures and thermal behavior in enclosed systems.
-
-### ⚙️ Mechatronics & Embedded Systems
-- **Arduino-Controlled Lawn Mower**  
-  Microcontroller integration for motor control, obstacle detection, and logic-based automation.
-- **Custom PCB Designs**  
-  Designed using KiCad and Fritzing for various control and sensor breakout boards.
-
-### 💻 Software Engineering
-- **Java Web Scraper + Excel Automation**  
-  Java + Selenium + Apache POI + TestNG program for automated data retrieval and Excel reporting.
-- **Linux Desktop Environment**  
-  Gained hands-on experience with various Linux distributions and desktop environments (GNOME, KDE, XFCE, etc.) through extensive distro hopping, customizing workflows, and configuring system behavior across different UI paradigms.
+Each folder in this repository is a self-contained project demonstrating specific skills and tools. This layout presents both context and capability in a condensed, reader-friendly format.
 
 ---
 
-## 🛠️ Core Skills
+### 🖥️ Custom ITX PC Case  
+Parametric small form factor case designed for thermal optimization and efficient component layout.
 
-### Mechanical Engineering
-- SolidWorks, Siemens NX, GD&T, design for manufacturing
-- Stress analysis, vibration analysis, thermal considerations
-- 3D printing (FDM), CNC machining, laser cutting, tolerancing
+💡 Solid modeling · Airflow optimization · Thermal analysis · 3D printing  
+🧰 SolidWorks · FreeCAD · CFD tools · FDM printer
 
-### Electrical & Embedded Systems
-- Arduino, Raspberry Pi, ESP32, PCB design, soldering
-- Serial, I2C, and Wi-Fi-based communication
-- Power supply integration and battery management
+---
 
-### Software Development
-- **Languages**: Python, Java, MATLAB, C++, Bash, HTML/CSS
-- **Tools**: IntelliJ, VS Code, Git, Gradle, Nano
-- Object-oriented design, scripting, automation, and embedded C
+### 🤖 Smart Electric Lawnmower  
+Chassis and control system for a semi-autonomous electric mower.
 
-### Simulation & Analysis
-- SolidWorks Simulation (FEM), MATLAB modeling
-- Numerical methods for solving dynamic systems
-- CFD setup and result interpretation
+🛠️ Weldment design · Embedded control logic · Power integration  
+🔌 Arduino · SolidWorks · Sensor interfacing · Motor control
 
-### Operating Systems & Configuration
-- Linux customization (Pop!_OS, KDE Neon, XFCE)
-- Shell scripting, automation, startup config
-- Windows/Linux dual-boot environments
+---
 
-### Soft Skills & Project Leadership
-- Technical documentation, stakeholder communication
-- Interdisciplinary team collaboration
-- Capstone project leadership and client presentations
+### 🛠️ Custom PCB Designs  
+Designed and prototyped various control and sensor breakout boards.
+
+🔧 Circuit layout · Signal routing · Communication protocols (I2C, UART)  
+🧰 KiCad · Fritzing · Soldering tools
+
+---
+
+### 📊 Java Web Scraper + Excel Automation  
+Automated scraping of serial data and structured Excel reporting.
+
+🧠 Web automation · Data parsing · Test-driven development  
+🧰 Java · Selenium · Apache POI · TestNG · IntelliJ · Gradle
+
+---
+
+### 🧪 Simulation & Analysis Projects  
+Validation of mechanical designs through simulation and modeling.
+
+📈 Stress & modal analysis · Dynamic system modeling · Thermal behavior  
+🧰 SolidWorks Simulation · MATLAB · Numerical methods
+
+---
+
+### 🐧 Linux Desktop Environment Experiments  
+Exploration of custom workflows through Linux DE customization and scripting.
+
+⚙️ Shell scripting · UI behavior tuning · Boot and startup automation  
+🧰 Pop!_OS · KDE Neon · XFCE · Bash · Dual-boot config
+
+---
+
+## 🧠 Core Technical Proficiencies
+
+- **CAD & Mechanical Design**: SolidWorks, FreeCAD, Siemens NX, GD&T, DfM, FDM printing, CNC, laser cutting  
+- **Programming**: Python, Java, C++, MATLAB, Bash, HTML/CSS  
+- **Simulation**: FEM, CFD, MATLAB modeling, thermal/vibration analysis  
+- **Embedded Systems**: Arduino, ESP32, Raspberry Pi, custom PCBs, power systems  
+- **Tools**: IntelliJ, VS Code, Git, Gradle, Nano, KiCad  
+- **OS Configuration**: Linux customization, automation scripts, dual-boot setups  
+- **Soft Skills**: Documentation, team collaboration, stakeholder engagement, project leadership
 
 ---
 
