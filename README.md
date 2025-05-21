@@ -36,7 +36,7 @@ Designed and prototyped various control and sensor breakout boards.
 
 ⸻ ⸻ ⸻ ⸻
 
-### 📊 Java Web Scraper + Excel Automation  
+### 📊🌐 Java Web Scraper + Excel Automation  
 Automated scraping of serial data and structured Excel reporting.
 
   🧠 Web automation · Data parsing · Test-driven development  
