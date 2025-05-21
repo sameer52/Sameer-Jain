@@ -18,7 +18,7 @@ Chassis and control system for a semi-autonomous electric mower.
 ![Example Badge](https://img.shields.io/badge/Embedded%20Control%20Logic-656565)
 ![Example Badge](https://img.shields.io/badge/Power%20Integration-656565)
 
-[Example Badge](https://img.shields.io/badge/Arduino-8A2BE2)
+![Example Badge](https://img.shields.io/badge/Arduino-8A2BE2)
 ![Example Badge](https://img.shields.io/badge/Solidworks-8A2BE2)
 ![Example Badge](https://img.shields.io/badge/Sensor%20Fusion-8A2BE2)
 
