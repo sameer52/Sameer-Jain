@@ -108,9 +108,9 @@ This repository is intended for educational and portfolio purposes only. For com
 
 ## 📫 Contact
 
-- **Email**: sameerj5252@gmail.com  
+- **Email**: sameerj5252@gmail.com
 - **LinkedIn**: [linkedin.com/in/sameerjain](https://www.linkedin.com/in/sameerjain0841/)
-- **ResearchGate**: [researchgate.net/profile/Sameer-Jain](https://www.researchgate.net/profile/Sameer-Jain-9?ev=hdr_xprf)
+- **ResearchGate**: [My RG Profile](https://www.researchgate.net/profile/Sameer-Jain-9?ev=hdr_xprf)
 - **Open Science Framework**: [My OSF Profile](https://osf.io/hv5g8/)
 - **Website**: [sameerjain.dev](https://sameerjain.dev) (placeholder)
 
