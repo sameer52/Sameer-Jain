@@ -84,13 +84,19 @@ Each folder in this repository represents a self-contained project or a thematic
 
 ---
 
-## 🧪 Featured Capstone Project
+## 🧪 Featured Projects
 
-### 🔍 Autonomous Smart Lawnmower (In Progress)
+### 🤖 Autonomous Smart Lawnmower (CAPSTONE)
 - **Objective**: Design and prototype a smart electric lawnmower capable of autonomous navigation and base docking.
 - **Subsystems**: Mechanical chassis, localization system (ESP32), depth sensors, microcontroller-based drive logic, CAD-based housing design.
 - **Software**: Arduino IDE, MATLAB simulations, SolidWorks design documentation.
 - **Outcome**: Capstone project under Prof. Ahmad Barari at Ontario Tech University.
+
+### 🖥️ Custom Computer Case
+- **Objective**: Design a compact, thermally optimized PC case with modular features for both workstation and server use.
+- **Subsystems**: Magnetically removable top panel, server-actuated top exhaust vents, PSU mounting for ATX and SFX, and modular internal brackets.
+- **Software**: Designed using SolidWorks and prepared for manufacturing with laser cutter-compatible formats.
+- **Outcome**: Created a space-efficient case with high airflow performance, automatic thermal control, and tool-less access for maintainability and upgradeability.
 
 ---
 
