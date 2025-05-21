@@ -12,19 +12,19 @@ Each folder in this repository is a self-contained project demonstrating specifi
 
 ---
 
+### 🤖 Autonomous Lawnmower  
+Chassis and control system for a semi-autonomous electric mower.
+
+>🛠️ Weldment design · Embedded control logic · Power integration  
+>🔌 Arduino · SolidWorks · Sensor interfacing · Motor control
+
+<br>
+
 ### 🖥️ Custom ITX PC Case  
 Parametric small form factor case designed for thermal optimization and efficient component layout.
 
 >💡 Solid modeling · Airflow optimization · Thermal analysis · 3D printing  
 >🧰 SolidWorks · FreeCAD · CFD tools · FDM printer  
-
-<br>
-
-### 🤖 Smart Electric Lawnmower  
-Chassis and control system for a semi-autonomous electric mower.
-
->🛠️ Weldment design · Embedded control logic · Power integration  
->🔌 Arduino · SolidWorks · Sensor interfacing · Motor control
 
 <br>
 
