@@ -44,6 +44,13 @@ Automated scraping of serial data and structured Excel reporting.
 
 <br>
 
+### 🐧 Linux Desktop Environment Experiments  
+Exploration of custom workflows through Linux DE customization and scripting.
+
+>🐧 Pop!_OS · KDE Neon · Ubuntu · Kubuntu · SolosOS · ChromeOS · Windows 10/11  
+>⚙️ Shell scripting · UI behavior tuning · Boot and startup automation  
+>🧰 XFCE · Bash · Dual-boot config
+
 ### 🧪 Simulation & Analysis Projects  
 Validation of mechanical designs through simulation and modeling.
 
@@ -51,13 +58,6 @@ Validation of mechanical designs through simulation and modeling.
 >🧰 SolidWorks Simulation · MATLAB · Numerical methods
 
 <br>
-
-### 🐧 Linux Desktop Environment Experiments  
-Exploration of custom workflows through Linux DE customization and scripting.
-
->🐧 Pop!_OS · KDE Neon · Ubuntu · Kubuntu · SolosOS · ChromeOS · Windows 10/11  
->⚙️ Shell scripting · UI behavior tuning · Boot and startup automation  
->🧰 XFCE · Bash · Dual-boot config
 
 ---
 
