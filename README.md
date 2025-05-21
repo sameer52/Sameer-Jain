@@ -34,12 +34,6 @@ Each folder in this repository represents a self-contained project or a thematic
 - **Linux Desktop Environment**  
   Gained hands-on experience with various Linux distributions and desktop environments (GNOME, KDE, XFCE, etc.) through extensive distro hopping, customizing workflows, and configuring system behavior across different UI paradigms.
 
-### 🕹️ Media, UI/UX, and OS-Level Projects
-- **Custom Game & Media Center UI (Linux)**  
-  Created a game console-like experience on Linux using XFCE, Bash scripting, and configuration hacks.
-- **RetroArch and Steam Big Picture Modding**  
-  Enhanced controller-based navigation and seamless transition between games and media applications.
-
 ---
 
 ## 🛠️ Core Skills
