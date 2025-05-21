@@ -30,7 +30,7 @@ Each folder in this repository represents a self-contained project or a thematic
 
 ### 💻 Software Engineering
 - **Java Web Scraper + Excel Automation**  
-  Java + Selenium + Apache POI program for automated data retrieval and Excel reporting.
+  Java + Selenium + Apache POI + TestNG program for automated data retrieval and Excel reporting.
 - **Linux Desktop Environment**  
   Gained hands-on experience with various Linux distributions and desktop environments (GNOME, KDE, XFCE, etc.) through extensive distro hopping, customizing workflows, and configuring system behavior across different UI paradigms.
 
