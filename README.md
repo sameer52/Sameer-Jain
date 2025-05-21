@@ -92,8 +92,6 @@ Each folder in this repository represents a self-contained project or a thematic
 - **Software**: Arduino IDE, MATLAB simulations, SolidWorks design documentation.
 - **Outcome**: Capstone project under Prof. Ahmad Barari at Ontario Tech University.
 
----
-
 ### 🖥️ Custom Computer Case
 - **Objective**: Design a compact, thermally optimized PC case with modular features for both workstation and server use.
 - **Subsystems**: Magnetically removable top panel, server-actuated top exhaust vents, PSU mounting for ATX and SFX, and modular internal brackets.
