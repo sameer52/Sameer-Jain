@@ -34,17 +34,23 @@ Designed and prototyped various control and sensor breakout boards.
 >🔧 Circuit layout · Signal routing · Communication protocols (I2C, UART)  
 >🧰 KiCad · Fritzing · Soldering tools
 
+<br>
+
 ### 📊🌐 Java Web Scraper + Excel Automation  
 Automated scraping of serial data and structured Excel reporting.
 
 >🧠 Web automation · Data parsing · Test-driven development  
 >🧰 Java · Selenium · Apache POI · TestNG · IntelliJ · Gradle
 
+<br>
+
 ### 🧪 Simulation & Analysis Projects  
 Validation of mechanical designs through simulation and modeling.
 
 >📈 Stress & modal analysis · Dynamic system modeling · Thermal behavior  
 >🧰 SolidWorks Simulation · MATLAB · Numerical methods
+
+<br>
 
 ### 🐧 Linux Desktop Environment Experiments  
 Exploration of custom workflows through Linux DE customization and scripting.
