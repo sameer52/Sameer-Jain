@@ -55,7 +55,7 @@ Validation of mechanical designs through simulation and modeling.
 ### 🐧 Linux Desktop Environment Experiments  
 Exploration of custom workflows through Linux DE customization and scripting.
 
-  🐧 Pop!_OS · KDE Neon · Ubuntu · Kubuntu · SolosOS · ChromeOS · Windows 10/11
+  🐧 Pop!_OS · KDE Neon · Ubuntu · Kubuntu · SolosOS · ChromeOS · Windows 10/11  
   ⚙️ Shell scripting · UI behavior tuning · Boot and startup automation  
   🧰 XFCE · Bash · Dual-boot config
 
