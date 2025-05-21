@@ -15,20 +15,14 @@ Each folder in this repository represents a self-contained project or a thematic
   Fully parametric compact case designed in SolidWorks and FreeCAD for airflow optimization and spatial efficiency.
 - **Smart Electric Lawnmower Frame**  
   Steel frame and chassis design using SolidWorks Weldments, designed for integration with sensors and autonomous drive.
-- **Portable CNC Mounts & Brackets**  
-  Custom designs for modular motor mounts and tool holders for CNC applications.
 
 ### 📐 Simulation & Analysis
 - **Finite Element Analysis (FEA)**  
   Structural simulations for stress, deformation, and modal analysis using SolidWorks Simulation.
 - **Computational Fluid Dynamics (CFD)**  
   Simulations of airflow in PC enclosures and thermal behavior in enclosed systems.
-- **MATLAB Spring Systems Solver**  
-  Custom scripts for matrix-based analysis of multi-spring networks using stiffness matrices and force vectors.
 
 ### ⚙️ Mechatronics & Embedded Systems
-- **ESP32 Robot & Charging Base Communication**  
-  Wireless communication system using ESP32-S3s for docking and localization.
 - **Arduino-Controlled Lawn Mower**  
   Microcontroller integration for motor control, obstacle detection, and logic-based automation.
 - **Custom PCB Designs**  
@@ -37,10 +31,8 @@ Each folder in this repository represents a self-contained project or a thematic
 ### 💻 Software Engineering
 - **Java Web Scraper + Excel Automation**  
   Java + Selenium + Apache POI program for automated data retrieval and Excel reporting.
-- **Python Control Systems**  
-  PID control implementation, filtering, and dynamic system simulation using Python.
-- **Linux Desktop Environment Mods**  
-  Pop!_OS + XFCE-based UI designed for controller-based media center interfaces. Includes D-Pad navigation, app reordering, and a fullscreen launcher.
+- **Linux Desktop Environment**  
+  Gained hands-on experience with various Linux distributions and desktop environments (GNOME, KDE, XFCE, etc.) through extensive distro hopping, customizing workflows, and configuring system behavior across different UI paradigms.
 
 ### 🕹️ Media, UI/UX, and OS-Level Projects
 - **Custom Game & Media Center UI (Linux)**  
