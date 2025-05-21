@@ -5,9 +5,9 @@ REMOVE THESE
 
 \REMOVE THESE
 
-# 🧠 Engineering Portfolio – Sameer Jain
+# Engineering Portfolio – Sameer Jain
 
-Welcome to my Engineering Portfolio.
+Welcome to my Engineering Portfolio. 🙋🏽‍♂️
 
 This repository showcases a diverse range of engineering projects that integrate mechanical design, electronics, control systems, software development, simulation, and manufacturing. While my foundation lies in mechanical engineering, my work extends into system-level thinking, such as bridging hardware and software to develop complete, functional solutions.
 
@@ -21,16 +21,19 @@ Each folder in this repository is a self-contained project demonstrating specifi
 ### 🤖 Autonomous Lawnmower  
 Chassis and control system for a semi-autonomous electric mower.
 
-![Weldment Icon]([https://cdn-icons-png.flaticon.com/16/2920/2920237.png](https://www.flaticon.com/free-icon/motherboard_5921864)) ![Badge](https://img.shields.io/badge/weldment%20design-656565)
-![Badge](https://img.shields.io/badge/Embedded%20Control%20Logic-656565)
-![Badge](https://img.shields.io/badge/Power%20Integration-656565)  
-![Badge](https://img.shields.io/badge/Arduino-02699C)
-![Badge](https://img.shields.io/badge/Solidworks-02699C)
-![Badge](https://img.shields.io/badge/Sensor%20Fusion-02699C)
+![Skills](https://img.shields.io/badge/weldment%20design-656565)
+![Skills](https://img.shields.io/badge/Embedded%20Control%20Logic-656565)
+![Skills](https://img.shields.io/badge/Power%20Integration-656565)  
+![Tool](https://img.shields.io/badge/Arduino-02699C)
+![Tool](https://img.shields.io/badge/Solidworks-02699C)
+![Tool](https://img.shields.io/badge/Sensor%20Fusion-02699C)
   
 
-### 🖥️ Custom ITX PC Case  
-Parametric small form factor case designed for thermal optimization and efficient component layout.
+<h3>
+  <img src="https://github.com/user-attachments/assets/eda94c2a-d5bd-4a34-8661-9ba9af9366ef" width="20" style="vertical-align:middle; margin-right:8px;">
+  Custom ITX PC Case
+</h3>
+<p>Parametric small form factor case designed for thermal optimization and efficient component layout.</p>
 
 ![Badge](https://img.shields.io/badge/Solid%20Modeling-656565)
 ![Badge](https://img.shields.io/badge/Airflow%20Optimization-656565)
