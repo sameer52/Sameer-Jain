@@ -22,6 +22,8 @@ Chassis and control system for a semi-autonomous electric mower.
 | 🔌 | Arduino          | SolidWorks             | Sensor Interfacing |
 |:--:|:----------------:|:----------------------:|:------------------:|
 
+> Arduino · SolidWorks · Sensor Interfacing
+
 <br>
 
 
