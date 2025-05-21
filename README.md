@@ -14,15 +14,15 @@ Each folder in this repository is a self-contained project demonstrating specifi
 ### 🤖 Autonomous Lawnmower  
 Chassis and control system for a semi-autonomous electric mower.
 
+
+
 | 🛠️ | Weldment Design | Embedded Control Logic | Power Integration |
 |:--:|:----------------:|:----------------------:|:-----------------:|
 
 > Arduino · SolidWorks · Sensor Interfacing
 
-<span style="color:blue;">This text is blue!</span>
 ![Example Badge](https://img.shields.io/badge/Skill-Python-blue)
-https://img.shields.io/badge/Skill-Python-blue
-
+![Example Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 <br>
 
