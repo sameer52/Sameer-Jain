@@ -18,7 +18,7 @@ This repository showcases a diverse range of engineering projects that integrate
 Each folder in this repository is a self-contained project demonstrating specific skills and tools. This layout presents both context and capability in a condensed, reader-friendly format.
 
 ---
-### 🤖 Autonomous Lawnmower  
+### 🤖 Autonomous Lawnmower
 Chassis and control system for a semi-autonomous electric mower.
 
 ![Skills](https://img.shields.io/badge/weldment_design-656565)
@@ -35,14 +35,14 @@ Chassis and control system for a semi-autonomous electric mower.
 </h3>
 <p>Parametric small form factor case designed for thermal optimization and efficient component layout.</p>
 
-![Skills](https://img.shields.io/badge/Solid_Modeling-656565)
-![Skills](https://img.shields.io/badge/Airflow_Optimization-656565)
-![Skills](https://img.shields.io/badge/Thermal_Analysis-656565)
-![Skills](https://img.shields.io/badge/3D_Printing-656565)  
-![Tool](https://img.shields.io/badge/Solidworks-02699C)
-![Tool](https://img.shields.io/badge/SW_Fluid_Simulation-02699C)
-![Tool](https://img.shields.io/badge/FDM_3D_Printer-02699C)
-![Tool](https://img.shields.io/badge/FreeCAD-02699C)
+![Skills](https://img.shields.io/badge/Solid_Modeling-02699C)
+![Skills](https://img.shields.io/badge/Airflow_Optimization-02699C)
+![Skills](https://img.shields.io/badge/Thermal_Analysis-02699C)
+![Skills](https://img.shields.io/badge/3D_Printing-02699C)  
+![Tool](https://img.shields.io/badge/Solidworks-FEED95)
+![Tool](https://img.shields.io/badge/SW_Fluid_Simulation-FEED95)
+![Tool](https://img.shields.io/badge/FDM_3D_Printer-FEED95)
+![Tool](https://img.shields.io/badge/FreeCAD-FEED95)
   
 
 ### 📊🌐 Java Web Scraper + Excel Automation  
@@ -62,12 +62,12 @@ Exploration of custom workflows through Linux DE customization and scripting.
 ![Distro](https://img.shields.io/badge/SolosOS-656565)
 ![Distro](https://img.shields.io/badge/ChromeOS-656565)
 ![Distro](https://img.shields.io/badge/Windows_10/11-656565)  
-![Skills](https://img.shields.io/badge/Shell_Scripting-656565)
-![Skills](https://img.shields.io/badge/UI_Behavior_Tuning-656565)
-![Skills](https://img.shields.io/badge/Boot_and_startup_automation-656565)
-![Tool](https://img.shields.io/badge/XFCE-B5D710)
-![Tool](https://img.shields.io/badge/Bash-B5D710)
-![Tool](https://img.shields.io/badge/Dual-boot_Config-B5D710)  
+![Skills](https://img.shields.io/badge/Shell_Scripting-02699C)
+![Skills](https://img.shields.io/badge/UI_Behavior_Tuning-02699C)
+![Skills](https://img.shields.io/badge/Boot_and_startup_automation-02699C)  
+![Tool](https://img.shields.io/badge/XFCE-FEED95)
+![Tool](https://img.shields.io/badge/Bash-FEED95)
+![Tool](https://img.shields.io/badge/Dual_Boot-FEED95)  
   
 
 ### 🧪 Simulation & Analysis Projects  
