@@ -28,14 +28,6 @@ Parametric small form factor case designed for thermal optimization and efficien
 
 <br>
 
-### 🛠️ Custom PCB Designs  
-Designed and prototyped various control and sensor breakout boards.
-
->🔧 Circuit layout · Signal routing · Communication protocols (I2C, UART)  
->🧰 KiCad · Fritzing · Soldering tools
-
-<br>
-
 ### 📊🌐 Java Web Scraper + Excel Automation  
 Automated scraping of serial data and structured Excel reporting.
 
@@ -58,6 +50,14 @@ Validation of mechanical designs through simulation and modeling.
 
 >📈 Stress & modal analysis · Dynamic system modeling · Thermal behavior  
 >🧰 SolidWorks Simulation · MATLAB · Numerical methods
+
+<br>
+
+### 🛠️ Custom PCB Designs  
+Designed and prototyped various control and sensor breakout boards.
+
+>🔧 Circuit layout · Signal routing · Communication protocols (I2C, UART)  
+>🧰 KiCad · Soldering tools · PCBWay
 
 ---
 
