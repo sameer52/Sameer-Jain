@@ -11,15 +11,15 @@ This repository showcases a diverse range of engineering projects that integrate
 Each folder in this repository is a self-contained project demonstrating specific skills and tools. This layout presents both context and capability in a condensed, reader-friendly format.
 
 ---
-
 ### 🤖 Autonomous Lawnmower  
 Chassis and control system for a semi-autonomous electric mower.
 
-|🛠️| Weldment Design | Embedded Control Logic | Power Integration |
-|  |:-------------- :|:----------------------:|:-----------------:|
-|🔌|     Arduino     |         SolidWorks     | Sensor Interfacing | Motor Control|
+| 🛠️ Category | Weldment Design | Embedded Control Logic | Power Integration |
+|:-----------:|:----------------:|:----------------------:|:-----------------:|
+| 🔌 Tools    | Arduino          | SolidWorks             | Sensor Interfacing |
 
 <br>
+
 
 ### 🖥️ Custom ITX PC Case  
 Parametric small form factor case designed for thermal optimization and efficient component layout.
