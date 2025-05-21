@@ -16,8 +16,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
 Parametric small form factor case designed for thermal optimization and efficient component layout.
 
 >💡 Solid modeling · Airflow optimization · Thermal analysis · 3D printing  
->🧰 SolidWorks · FreeCAD · CFD tools · FDM printer
-<test>
+>🧰 SolidWorks · FreeCAD · CFD tools · FDM printer  
 
 ⸻
 
@@ -107,7 +106,7 @@ Check out each project folder for images, videos, 3D renders, wiring diagrams, s
 
 - **Email**: sameerj5252@gmail.com
 - **LinkedIn**: [linkedin.com/in/sameerjain](https://www.linkedin.com/in/sameerjain0841/)
-- **Website**: [sameerjain.dev](https://sameerjain.dev) (placeholder)
+<- **Website**: [sameerjain.dev](https://sameerjain.dev) (placeholder)>
 
 ---
 
