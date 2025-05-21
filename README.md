@@ -18,7 +18,7 @@ Parametric small form factor case designed for thermal optimization and efficien
   💡 Solid modeling · Airflow optimization · Thermal analysis · 3D printing  
   🧰 SolidWorks · FreeCAD · CFD tools · FDM printer  
 
->
+>>
 
 ### 🤖 Smart Electric Lawnmower  
 Chassis and control system for a semi-autonomous electric mower.
@@ -26,7 +26,7 @@ Chassis and control system for a semi-autonomous electric mower.
   🛠️ Weldment design · Embedded control logic · Power integration  
   🔌 Arduino · SolidWorks · Sensor interfacing · Motor control
 
-=
+⸻⸻⸻
 
 ### 🛠️ Custom PCB Designs  
 Designed and prototyped various control and sensor breakout boards.
@@ -34,7 +34,7 @@ Designed and prototyped various control and sensor breakout boards.
   🔧 Circuit layout · Signal routing · Communication protocols (I2C, UART)  
   🧰 KiCad · Fritzing · Soldering tools
 
-⸻
+⸻ ⸻ ⸻ ⸻
 
 ### 📊 Java Web Scraper + Excel Automation  
 Automated scraping of serial data and structured Excel reporting.
