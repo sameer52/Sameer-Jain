@@ -2,7 +2,7 @@
 
 Welcome to my Engineering Portfolio.
 
-This repository showcases a diverse collection of my engineering projects across mechanical design, embedded systems, control systems, simulation, software development, manufacturing, and systems integration. While I specialize in mechanical engineering, my experience spans the broader field of **mechatronics engineering** — blending **mechanical design**, **electronics**, **software**, and **systems thinking** to create fully integrated solutions.
+This repository showcases a diverse range of engineering projects that integrate mechanical design, electronics, control systems, software development, simulation, and manufacturing. While my foundation lies in mechanical engineering, my work extends into system-level thinking, such as bridging hardware and software to develop complete, functional solutions.
 
 ---
 
