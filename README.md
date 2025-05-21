@@ -21,7 +21,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
 ### 🤖 Autonomous Lawnmower  
 Chassis and control system for a semi-autonomous electric mower.
 
-![Badge](https://img.shields.io/badge/weldment%20design-656565)
+![Weldment Icon](https://cdn-icons-png.flaticon.com/16/2920/2920237.png) ![Badge](https://img.shields.io/badge/weldment%20design-656565)
 ![Badge](https://img.shields.io/badge/Embedded%20Control%20Logic-656565)
 ![Badge](https://img.shields.io/badge/Power%20Integration-656565)  
 ![Badge](https://img.shields.io/badge/Arduino-02699C)
