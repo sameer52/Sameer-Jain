@@ -24,9 +24,9 @@ Chassis and control system for a semi-autonomous electric mower.
 ![Badge](https://img.shields.io/badge/weldment%20design-656565)
 ![Badge](https://img.shields.io/badge/Embedded%20Control%20Logic-656565)
 ![Badge](https://img.shields.io/badge/Power%20Integration-656565)  
-![Badge](https://img.shields.io/badge/Arduino-8A2BE2)
-![Badge](https://img.shields.io/badge/Solidworks-8A2BE2)
-![Badge](https://img.shields.io/badge/Sensor%20Fusion-8A2BE2)
+![Badge](https://img.shields.io/badge/Arduino-50B6F2)
+![Badge](https://img.shields.io/badge/Solidworks-50B6F2)
+![Badge](https://img.shields.io/badge/Sensor%20Fusion-50B6F2)
   
 
 ### 🖥️ Custom ITX PC Case  
