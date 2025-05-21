@@ -20,6 +20,8 @@ Chassis and control system for a semi-autonomous electric mower.
 > Arduino · SolidWorks · Sensor Interfacing
 
 <span style="color:blue;">This text is blue!</span>
+![Example Badge](https://img.shields.io/badge/Skill-Python-blue)
+
 
 <br>
 
