@@ -100,12 +100,6 @@ Check out each project folder for images, videos, 3D renders, wiring diagrams, s
 
 ---
 
-## 📜 License
-
-This repository is intended for educational and portfolio purposes only. For commercial use or collaboration requests, please contact me directly.
-
----
-
 ## 🔬 Research
 
 - **ResearchGate**: [My RG Profile](https://www.researchgate.net/profile/Sameer-Jain-9?ev=hdr_xprf)
@@ -118,6 +112,12 @@ This repository is intended for educational and portfolio purposes only. For com
 - **Email**: sameerj5252@gmail.com
 - **LinkedIn**: [linkedin.com/in/sameerjain](https://www.linkedin.com/in/sameerjain0841/)
 - **Website**: [sameerjain.dev](https://sameerjain.dev) (placeholder)
+
+---
+
+## 📜 License
+
+This repository is intended for educational and portfolio purposes only. For commercial use or collaboration requests, please contact me directly.
 
 ---
 
