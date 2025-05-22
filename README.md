@@ -20,7 +20,8 @@ This repository showcases a diverse range of engineering projects that integrate
 
 Each folder in this repository is a self-contained project demonstrating specific skills and tools. This layout presents both context and capability in a condensed, reader-friendly format.
 
----
+<hr>
+
 ### 🤖 Autonomous Lawnmower (CAPSTONE)
 
 > ![Skills](https://img.shields.io/badge/Skills-Design_for_Manufacturing-02699C)
