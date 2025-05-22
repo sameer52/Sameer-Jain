@@ -4,7 +4,9 @@ Welcome to my Engineering Portfolio. 🙋🏽‍♂️
 
 This repository showcases a diverse range of engineering projects that integrate mechanical design, electronics, control systems, software development, simulation, and manufacturing. While my foundation lies in mechanical engineering, my work extends into system-level thinking, such as bridging hardware and software to develop complete, functional solutions.
 
-<br>
+![Skills](https://img.shields.io/badge/SolidWorks-CSWA-EB225E) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="logo" width="20"/> &nbsp;&nbsp;&nbsp;
+![Skills](https://img.shields.io/badge/SolidWorks-CSWP-00cc99) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="logo" width="20"/> &nbsp;&nbsp;&nbsp;
+
 
 # 📂 Projects & Technical Skills
 
@@ -30,10 +32,14 @@ Each folder in this repository is a self-contained project demonstrating specifi
     <td style="vertical-align:top;">
       Chassis and control system for a semi-autonomous electric mower.
       <ul>
-        <li><strong>Objective</strong>: Design and prototype a smart electric lawnmower capable of autonomous navigation and base docking.</li>
-        <li><strong>Subsystems</strong>: Mechanical chassis, localization system (ESP32), depth sensors, microcontroller-based drive logic, CAD-based housing design.</li>
-        <li><strong>Software</strong>: Arduino IDE, MATLAB simulations, SolidWorks design documentation.</li>
-        <li><strong>Outcome</strong>: Capstone project under Prof. Ahmad Barari at Ontario Tech University.</li>
+        <li>Led end-to-end development of a semi-autonomous electric lawnmower from user needs and system architecture to prototyping and testing</li>
+        <li>Designed modular steel chassis using SolidWorks weldments; validated frame strength and thermal airflow via FEM and CFD simulations</li>
+        <li>Integrated ESP32-based control system with motor drivers, ultrasonic sensors, and IMU/GPS for real-time navigation and base docking</li>
+        <li>Programmed embedded control logic using Arduino IDE; tested path planning and obstacle avoidance across X field trials</li>
+        <li>Performed X design iterations based on thermal, electrical, and mechanical performance data</li>
+        <li>Developed modular, 3D-printable and laser-cut enclosures for electronics, improving serviceability and access</li>
+        <li>Applied Design for Manufacturing (DFM) and Design for Assembly (DFA) principles to reduce wiring effort and assembly time by X%</li>
+        <li>Documented system architecture, wiring diagrams, control logic, and testing results as part of academic capstone submission under Prof. Ahmad Barari</li>
       </ul>
     </td>
     <td style="text-align:center; vertical-align:top;">
@@ -53,25 +59,30 @@ Each folder in this repository is a self-contained project demonstrating specifi
   ![Skills](https://img.shields.io/badge/Skills-Solid_Modeling-02699C)
   ![Skills](https://img.shields.io/badge/Airflow_Optimization-02699C)
   ![Skills](https://img.shields.io/badge/Thermal_Analysis-02699C)
-  ![Skills](https://img.shields.io/badge/3D_Printing-02699C)  
+  ![Skills](https://img.shields.io/badge/CAD_Assembly-02699C)
+  ![Skills](https://img.shields.io/badge/Tolerancing-02699C)
+  ![Skills](https://img.shields.io/badge/DFM-02699C)
+  ![Skills](https://img.shields.io/badge/DFA-02699C)  
   ![Tool](https://img.shields.io/badge/Tools-Solidworks-FEED95)
-  ![Tool](https://img.shields.io/badge/SW_Fluid_Simulation-FEED95)
+  ![Tool](https://img.shields.io/badge/Fluid_Simulation-FEED95)
   ![Tool](https://img.shields.io/badge/FDM_3D_Printer-FEED95)
-  ![Tool](https://img.shields.io/badge/FreeCAD-FEED95)
+  ![Tool](https://img.shields.io/badge/BambuStudio-FEED95)
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="vertical-align:top;">
-      Parametric small form factor case designed for thermal optimization and efficient component layout.
+    <td style="text-align:left; vertical-align:top;">
+      Parametric small form factor case designed for modularity and portability.
       <ul>
-        <li><strong>Objective</strong>: Design a compact, thermally optimized PC case with modular features for both workstation and server use.</li>
-        <li><strong>Subsystems</strong>: Magnetically removable top panel, server-actuated top exhaust vents, PSU mounting for ATX and SFX, and modular internal brackets.</li>
-        <li><strong>Software</strong>: Designed using SolidWorks and prepared for manufacturing with laser cutter-compatible formats.</li>
-        <li><strong>Outcome</strong>: Created a space-efficient case with high airflow performance, automatic thermal control, and tool-less access for maintainability and upgradeability.</li>
+        <li>Led complete design and prototyping of a custom 18L Mini-ITX PC case, including user research, CAD, simulation, and physical testing</li>
+        <li>Ran FEM and CFD simulations to reduce thermal hotspots by 20% and ensure mechanical integrity</li>
+        <li>Designed for manufacturing with PLA 3D printing and laser cutting (wood, acrylic, aluminum)</li>
+        <li>Completed 13 iterative revisions driven by airflow, thermal, and assembly optimizations</li>
+        <li>Applied DFA principles to minimize assembly time and improve internal accessibility</li>
+        <li>Added usability features: cable/airflow channels, magnetic panels, drive mounts, and active airflow control</li>
       </ul>
     </td>
-    <td style="text-align:center; vertical-align:top;">
-      <img src="https://github.com/sameer52/ITX-Case/blob/main/images/ITX-Case-V3-WIP-portrait.png" alt="Project Image" style="width:400px; border-radius:8px;">
+    <td style="text-align:center; vertical-align:center;">
+      <img src="https://github.com/sameer52/ITX-Case/blob/main/images/ITX-Case-V3-WIP-portrait.png" alt="Project Image" style="width:300px; border-radius:8px;">
     </td>
   </tr>
 </table>
@@ -101,10 +112,11 @@ Each folder in this repository is a self-contained project demonstrating specifi
         <li><strong>Subsystems</strong>: </li>
         <li><strong>Software</strong>: </li>
         <li><strong>Outcome</strong>: </li>
+        <li><strong>Key Features</strong>: </li>
       </ul>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <img src="https://gabrielecirulli.github.io/2048/meta/og_image.png" alt="Project Image" style="width:400px; border-radius:8px;">
+      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:400px; border-radius:8px;">
     </td>
   </tr>
 </table>
@@ -118,19 +130,19 @@ Each folder in this repository is a self-contained project demonstrating specifi
 </h3>
 <p>Exploration of custom workflows through Linux DE customization and scripting.</p>
 
-> ![Distro](https://img.shields.io/badge/Distros-Pop!_OS-B6B6B6)
-  ![Distro](https://img.shields.io/badge/KDE_Neon-B6B6B6)
+> ![Distro](https://img.shields.io/badge/Distros-KDE_Neon-B6B6B6)
   ![Distro](https://img.shields.io/badge/Ubuntu-B6B6B6)
   ![Distro](https://img.shields.io/badge/Kubuntu-B6B6B6)
-  ![Distro](https://img.shields.io/badge/SolosOS-B6B6B6)
-  ![Distro](https://img.shields.io/badge/ChromeOS-B6B6B6)
-  ![Distro](https://img.shields.io/badge/OrangePi_OS-B6B6B6)  
+  ![Distro](https://img.shields.io/badge/OrangePi_OS-B6B6B6)
+  ![Distro](https://img.shields.io/badge/Manjaro-B6B6B6)
+  ![Distro](https://img.shields.io/badge/Pop!_OS-B6B6B6)
+  ![Distro](https://img.shields.io/badge/SolosOS-B6B6B6)  
 > ![Skills](https://img.shields.io/badge/Skills-Shell_Scripting-02699C)
-  ![Skills](https://img.shields.io/badge/UI_Behavior_Tuning-02699C)
-  ![Skills](https://img.shields.io/badge/Boot_and_startup_automation-02699C)  
-> ![Tool](https://img.shields.io/badge/Tools-XFCE-FEED95)
-  ![Tool](https://img.shields.io/badge/Bash-FEED95)
-  ![Tool](https://img.shields.io/badge/Dual_Boot-FEED95)
+  ![Skills](https://img.shields.io/badge/Networking-02699C)
+  ![Skills](https://img.shields.io/badge/Permission_Mgmt-02699C)  
+> ![Tool](https://img.shields.io/badge/Tools-Samba-FEED95)
+  ![Tool](https://img.shields.io/badge/SSH-FEED95)
+  ![Tool](https://img.shields.io/badge/RSYNC-FEED95)
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
@@ -140,10 +152,11 @@ Each folder in this repository is a self-contained project demonstrating specifi
         <li><strong>Subsystems</strong>: </li>
         <li><strong>Software</strong>: </li>
         <li><strong>Outcome</strong>: </li>
+        <li><strong>Key Features</strong>: </li>
       </ul>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <img src="https://gabrielecirulli.github.io/2048/meta/og_image.png" alt="Project Image" style="width:400px; border-radius:8px;">
+      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:400px; border-radius:8px;">
     </td>
   </tr>
 </table>
@@ -172,10 +185,11 @@ Each folder in this repository is a self-contained project demonstrating specifi
         <li><strong>Subsystems</strong>: </li>
         <li><strong>Software</strong>: </li>
         <li><strong>Outcome</strong>: </li>
+        <li><strong>Key Features</strong>: </li>
       </ul>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <img src="https://gabrielecirulli.github.io/2048/meta/og_image.png" alt="Project Image" style="width:400px; border-radius:8px;">
+      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:400px; border-radius:8px;">
     </td>
   </tr>
 </table>
