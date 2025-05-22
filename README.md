@@ -49,6 +49,8 @@ Each folder in this repository is a self-contained project demonstrating specifi
   </tr>
 </table>
 
+[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
+
 <br>
 
 
@@ -88,6 +90,8 @@ Each folder in this repository is a self-contained project demonstrating specifi
   </tr>
 </table>
 
+[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
+
 <br>
 
 
@@ -121,6 +125,8 @@ Each folder in this repository is a self-contained project demonstrating specifi
     </td>
   </tr>
 </table>
+
+[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
 
 <br>
 
@@ -162,6 +168,8 @@ Each folder in this repository is a self-contained project demonstrating specifi
   </tr>
 </table>
 
+[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
+
 <br>
 
 
@@ -194,6 +202,8 @@ Each folder in this repository is a self-contained project demonstrating specifi
     </td>
   </tr>
 </table>
+
+[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
 
 ---
 
