@@ -4,15 +4,15 @@ Welcome to my Engineering Portfolio. 🙋🏽‍♂️
 
 This repository showcases a diverse range of engineering projects that integrate mechanical design, electronics, control systems, software development, simulation, and manufacturing. While my foundation lies in mechanical engineering, my work extends into system-level thinking, such as bridging hardware and software to develop complete, functional solutions.
 
-![Skills](https://img.shields.io/badge/SolidWorks-CSWA-EB225E) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="logo" width="20"/> &nbsp;&nbsp;&nbsp;
-![Skills](https://img.shields.io/badge/SolidWorks-CSWP-00cc99) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="logo" width="20"/> &nbsp;&nbsp;&nbsp;
+![Skills](https://img.shields.io/badge/SolidWorks-CSWA-EB225E) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="logo" width="18"/> &nbsp;&nbsp;&nbsp;
+![Skills](https://img.shields.io/badge/SolidWorks-CSWP-009973) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="logo" width="18"/> &nbsp;&nbsp;&nbsp;
 
+<hr style="height:1px; background-color:#e0e0e0; border:none; margin: 20px 0;">
 
 # 📂 Projects & Technical Skills
 
 Each folder in this repository is a self-contained project demonstrating specific skills and tools. This layout presents both context and capability in a condensed, reader-friendly format.
 
-<hr style="height:1px; background-color:#e0e0e0; border:none; margin: 20px 0;">
 
 ### 🤖 Autonomous Lawnmower (CAPSTONE)
 
@@ -33,13 +33,13 @@ Each folder in this repository is a self-contained project demonstrating specifi
       Chassis and control system for a semi-autonomous electric mower.
       <ul>
         <li>Led end-to-end development of a semi-autonomous electric lawnmower from user needs and system architecture to prototyping and testing</li>
-        <li>Designed modular steel chassis using SolidWorks weldments; validated frame strength and thermal airflow via FEM and CFD simulations</li>
-        <li>Integrated ESP32-based control system with motor drivers, ultrasonic sensors, and IMU/GPS for real-time navigation and base docking</li>
-        <li>Programmed embedded control logic using Arduino IDE; tested path planning and obstacle avoidance across X field trials</li>
-        <li>Performed X design iterations based on thermal, electrical, and mechanical performance data</li>
-        <li>Developed modular, 3D-printable and laser-cut enclosures for electronics, improving serviceability and access</li>
-        <li>Applied Design for Manufacturing (DFM) and Design for Assembly (DFA) principles to reduce wiring effort and assembly time by X%</li>
-        <li>Documented system architecture, wiring diagrams, control logic, and testing results as part of academic capstone submission under Prof. Ahmad Barari</li>
+        <li>Designed modular PLA chassis using SolidWorks; validated frame strength and thermal airflow via FEM and CFD simulations</li>
+        <li>Integrated ESP32-based control system with motor drivers, ultrasonic sensors, and IMU/GPS for real-time navigation and obstacle avoidance</li>
+        <li>Programmed embedded control logic using Arduino IDE; tested path planning and obstacle avoidance across 7 field trials</li>
+        <li>Performed 11 design iterations based on thermal, electrical, and mechanical performance data</li>
+        <li>Developed modular, 3D-printable and laser-cut enclosures for electronics, improving serviceability and assembly efficiency</li>
+        <li>Applied Design for Manufacturing (DFM) and Design for Assembly (DFA) principles to reduce wiring effort and assembly time</li>
+        <li>Documented development, wiring diagrams, control logic, and testing results</li>
       </ul>
     </td>
     <td style="text-align:center; vertical-align:top;">
@@ -48,7 +48,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
   </tr>
 </table>
 
----
+<br>
 
 
 <h3>
@@ -87,7 +87,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
   </tr>
 </table>
 
----
+<br>
 
 
 ### 🌐 Java Web Scraper & Excel Automation  
@@ -121,7 +121,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
   </tr>
 </table>
 
----
+<br>
 
 
 <h3>
@@ -161,7 +161,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
   </tr>
 </table>
 
----
+<br>
 
 
 <h3>
