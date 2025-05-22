@@ -3,6 +3,7 @@ REMOVE THESE
 ![Example Badge](https://img.shields.io/badge/Skill-Python-blue)
 ![Example Badge](https://img.shields.io/badge/just_the_message-8A2BE2)
 ![Other](https://img.shields.io/badge/Distros/Other-656565)
+![Other](https://img.shields.io/badge/Distros/Other-B6B6B6)
 ![Skills](https://img.shields.io/badge/Skills-02699C)
 ![Tool](https://img.shields.io/badge/Tools-FEED95)
 
@@ -24,22 +25,21 @@ Each folder in this repository is a self-contained project demonstrating specifi
 
 ### 🤖 Autonomous Lawnmower (CAPSTONE)
 
-> ![Skills](https://img.shields.io/badge/Skills-Design_for_Manufacturing-02699C)
+  ![Skills](https://img.shields.io/badge/Skills-Design_for_Manufacturing-02699C)
   ![Skills](https://img.shields.io/badge/Design_for_Assembly-02699C)
   ![Skills](https://img.shields.io/badge/Embedded_Control_Logic-02699C)
   ![Skills](https://img.shields.io/badge/Power_Integration-02699C)
   ![Skills](https://img.shields.io/badge/Sensor_Fusion-02699C)  
-> ![Tool](https://img.shields.io/badge/Tools-Arduino-FEED95)
+  ![Tool](https://img.shields.io/badge/Tools-Arduino-FEED95)
   ![Tool](https://img.shields.io/badge/ESP32-FEED95)
   ![Tool](https://img.shields.io/badge/Solidworks-FEED95)
   ![Tool](https://img.shields.io/badge/3D_Printing-FEED95)
   ![Tool](https://img.shields.io/badge/GD&T-FEED95)
 
-Chassis and control system for a semi-autonomous electric mower.
-
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="vertical-align:top;">
+      Chassis and control system for a semi-autonomous electric mower.
       <ul>
         <li><strong>Objective</strong>: Design and prototype a smart electric lawnmower capable of autonomous navigation and base docking.</li>
         <li><strong>Subsystems</strong>: Mechanical chassis, localization system (ESP32), depth sensors, microcontroller-based drive logic, CAD-based housing design.</li>
@@ -70,11 +70,10 @@ Chassis and control system for a semi-autonomous electric mower.
   ![Tool](https://img.shields.io/badge/FDM_3D_Printer-FEED95)
   ![Tool](https://img.shields.io/badge/FreeCAD-FEED95)
 
-Parametric small form factor case designed for thermal optimization and efficient component layout.
-
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="vertical-align:top;">
+      Parametric small form factor case designed for thermal optimization and efficient component layout.
       <ul>
         <li><strong>Objective</strong>: Design a compact, thermally optimized PC case with modular features for both workstation and server use.</li>
         <li><strong>Subsystems</strong>: Magnetically removable top panel, server-actuated top exhaust vents, PSU mounting for ATX and SFX, and modular internal brackets.</li>
@@ -114,13 +113,13 @@ Automated scraping of serial data and structured Excel reporting.
 </h3>
 <p>Exploration of custom workflows through Linux DE customization and scripting.</p>
 
-> ![Distro](https://img.shields.io/badge/Distros-Pop!_OS-656565)
-  ![Distro](https://img.shields.io/badge/KDE_Neon-656565)
-  ![Distro](https://img.shields.io/badge/Ubuntu-656565)
-  ![Distro](https://img.shields.io/badge/Kubuntu-656565)
-  ![Distro](https://img.shields.io/badge/SolosOS-656565)
-  ![Distro](https://img.shields.io/badge/ChromeOS-656565)
-  ![Distro](https://img.shields.io/badge/OrangePi_OS-656565)  
+> ![Distro](https://img.shields.io/badge/Distros-Pop!_OS-B6B6B6)
+  ![Distro](https://img.shields.io/badge/KDE_Neon-B6B6B6)
+  ![Distro](https://img.shields.io/badge/Ubuntu-B6B6B6)
+  ![Distro](https://img.shields.io/badge/Kubuntu-B6B6B6)
+  ![Distro](https://img.shields.io/badge/SolosOS-B6B6B6)
+  ![Distro](https://img.shields.io/badge/ChromeOS-B6B6B6)
+  ![Distro](https://img.shields.io/badge/OrangePi_OS-B6B6B6)  
 > ![Skills](https://img.shields.io/badge/Skills-Shell_Scripting-02699C)
   ![Skills](https://img.shields.io/badge/UI_Behavior_Tuning-02699C)
   ![Skills](https://img.shields.io/badge/Boot_and_startup_automation-02699C)  
