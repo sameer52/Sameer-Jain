@@ -1,14 +1,3 @@
-REMOVE THESE
-
-![Example Badge](https://img.shields.io/badge/Skill-Python-blue)
-![Example Badge](https://img.shields.io/badge/just_the_message-8A2BE2)
-![Other](https://img.shields.io/badge/Distros/Other-656565)
-![Other](https://img.shields.io/badge/Distros/Other-B6B6B6)
-![Skills](https://img.shields.io/badge/Skills-02699C)
-![Tool](https://img.shields.io/badge/Tools-FEED95)
-
-\REMOVE THESE
-
 # Engineering Portfolio – Sameer Jain
 
 Welcome to my Engineering Portfolio. 🙋🏽‍♂️
@@ -232,3 +221,18 @@ This repository is intended for educational and portfolio purposes only. For com
 ---
 
 Thank you for visiting!
+
+
+
+
+
+REMOVE THESE
+
+![Example Badge](https://img.shields.io/badge/Skill-Python-blue)
+![Example Badge](https://img.shields.io/badge/just_the_message-8A2BE2)
+![Other](https://img.shields.io/badge/Distros/Other-656565)
+![Other](https://img.shields.io/badge/Distros/Other-B6B6B6)
+![Skills](https://img.shields.io/badge/Skills-02699C)
+![Tool](https://img.shields.io/badge/Tools-FEED95)
+
+\REMOVE THESE
