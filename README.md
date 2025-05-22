@@ -61,11 +61,11 @@ Each folder in this repository is a self-contained project demonstrating specifi
   Custom ITX PC Case
 </h3>
 
-> ![Skills](https://img.shields.io/badge/Skills-Solid_Modeling-02699C)
+  ![Skills](https://img.shields.io/badge/Skills-Solid_Modeling-02699C)
   ![Skills](https://img.shields.io/badge/Airflow_Optimization-02699C)
   ![Skills](https://img.shields.io/badge/Thermal_Analysis-02699C)
   ![Skills](https://img.shields.io/badge/3D_Printing-02699C)  
-> ![Tool](https://img.shields.io/badge/Tools-Solidworks-FEED95)
+  ![Tool](https://img.shields.io/badge/Tools-Solidworks-FEED95)
   ![Tool](https://img.shields.io/badge/SW_Fluid_Simulation-FEED95)
   ![Tool](https://img.shields.io/badge/FDM_3D_Printer-FEED95)
   ![Tool](https://img.shields.io/badge/FreeCAD-FEED95)
@@ -91,18 +91,34 @@ Each folder in this repository is a self-contained project demonstrating specifi
 
 
 ### 🌐 Java Web Scraper & Excel Automation  
-Automated scraping of serial data and structured Excel reporting.
 
-> ![Skills](https://img.shields.io/badge/Skills-Web_Automation-02699C)
+  ![Skills](https://img.shields.io/badge/Skills-Web_Automation-02699C)
   ![Skills](https://img.shields.io/badge/Data_Parsing-02699C)
   ![Skills](https://img.shields.io/badge/Test_Driven_Development-02699C)  
-> ![Tool](https://img.shields.io/badge/Tools-Java-FEED95)
+  ![Tool](https://img.shields.io/badge/Tools-Java-FEED95)
   ![Tool](https://img.shields.io/badge/Selenium-FEED95)
   ![Tool](https://img.shields.io/badge/Apache_POI_API-FEED95)
   ![Tool](https://img.shields.io/badge/TestNG-FEED95)
   ![Tool](https://img.shields.io/badge/IntelliJ-FEED95)
   ![Tool](https://img.shields.io/badge/Gradle-FEED95)
   ![Tool](https://img.shields.io/badge/Maven-FEED95)
+
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="vertical-align:top;">
+      Automated scraping of serial data and structured Excel reporting.
+      <ul>
+        <li><strong>Objective</strong>: </li>
+        <li><strong>Subsystems</strong>: </li>
+        <li><strong>Software</strong>: </li>
+        <li><strong>Outcome</strong>: </li>
+      </ul>
+    </td>
+    <td style="text-align:center; vertical-align:top;">
+      <img src="https://gabrielecirulli.github.io/2048/meta/og_image.png" alt="Project Image" style="width:400px; border-radius:8px;">
+    </td>
+  </tr>
+</table>
 
 ---
 
