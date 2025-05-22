@@ -14,13 +14,13 @@ Welcome to my Engineering Portfolio. 🙋🏽‍♂️
 
 This repository showcases a diverse range of engineering projects that integrate mechanical design, electronics, control systems, software development, simulation, and manufacturing. While my foundation lies in mechanical engineering, my work extends into system-level thinking, such as bridging hardware and software to develop complete, functional solutions.
 
----
+<br>
 
 # 📂 Projects & Technical Skills
 
 Each folder in this repository is a self-contained project demonstrating specific skills and tools. This layout presents both context and capability in a condensed, reader-friendly format.
 
-<hr>
+<hr style="height:1px; background-color:#e0e0e0; border:none; margin: 20px 0;">
 
 ### 🤖 Autonomous Lawnmower (CAPSTONE)
 
@@ -35,11 +35,11 @@ Each folder in this repository is a self-contained project demonstrating specifi
   ![Tool](https://img.shields.io/badge/3D_Printing-FEED95)
   ![Tool](https://img.shields.io/badge/GD&T-FEED95)
 
-Chassis and control system for a semi-autonomous electric mower.
 - **Objective**: Design and prototype a smart electric lawnmower capable of autonomous navigation and base docking.
 - **Subsystems**: Mechanical chassis, localization system (ESP32), depth sensors, microcontroller-based drive logic, CAD-based housing design.
 - **Software**: Arduino IDE, MATLAB simulations, SolidWorks design documentation.
-- **Outcome**: Capstone project under Prof. Ahmad Barari at Ontario Tech University.
+- **Outcome**: Capstone project under Prof. Ahmad Barari at Ontario Tech University.  
+Chassis and control system for a semi-autonomous electric mower.
 
 
 <h3>
@@ -61,6 +61,7 @@ Parametric small form factor case designed for thermal optimization and efficien
 - **Subsystems**: Magnetically removable top panel, server-actuated top exhaust vents, PSU mounting for ATX and SFX, and modular internal brackets.
 - **Software**: Designed using SolidWorks and prepared for manufacturing with laser cutter-compatible formats.
 - **Outcome**: Created a space-efficient case with high airflow performance, automatic thermal control, and tool-less access for maintainability and upgradeability.
+
 
 ### 🌐 Java Web Scraper & Excel Automation  
 Automated scraping of serial data and structured Excel reporting.
