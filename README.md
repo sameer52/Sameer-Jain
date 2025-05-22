@@ -82,7 +82,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
       </ul>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <img src="https://gabrielecirulli.github.io/2048/meta/og_image.png" alt="Project Image" style="width:400px; border-radius:8px;">
+      <img src="https://github.com/sameer52/ITX-Case/blob/main/images/ITX-Case-V3-WIP-portrait.png" alt="Project Image" style="width:400px; border-radius:8px;">
     </td>
   </tr>
 </table>
