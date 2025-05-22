@@ -36,6 +36,7 @@ Chassis and control system for a semi-autonomous electric mower.
   ![Tool](https://img.shields.io/badge/GD&T-FEED95)
   
 
+
 <h3>
   <img src="https://github.com/user-attachments/assets/eda94c2a-d5bd-4a34-8661-9ba9af9366ef" width="20" style="vertical-align:middle; margin-right:8px;">
   Custom ITX PC Case
@@ -94,8 +95,12 @@ Automated scraping of serial data and structured Excel reporting.
 </h3>
 <p>Validation of mechanical designs through simulation and modeling.</p>
 
->📈 Stress & modal analysis · Dynamic system modeling · Thermal behavior  
->🧰 SolidWorks Simulation · MATLAB · Numerical methods
+> ![Skills](https://img.shields.io/badge/Skills-Stress_&_Modal_Analysis-02699C)
+  ![Skills](https://img.shields.io/badge/Dynamic_System_Modeling-02699C)
+  ![Skills](https://img.shields.io/badge/Thermal_behavior-02699C)  
+> ![Tool](https://img.shields.io/badge/Tools-SolidWorks_Simulation-FEED95)
+  ![Tool](https://img.shields.io/badge/MATLAB-FEED95)
+  ![Tool](https://img.shields.io/badge/Numerical_Methods-FEED95)
 
 ---
 
