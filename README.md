@@ -2,6 +2,9 @@ REMOVE THESE
 
 ![Example Badge](https://img.shields.io/badge/Skill-Python-blue)
 ![Example Badge](https://img.shields.io/badge/just_the_message-8A2BE2)
+![Other](https://img.shields.io/badge/Distros/Other-656565)
+![Skills](https://img.shields.io/badge/Skills-02699C)
+![Tool](https://img.shields.io/badge/Tools-FEED95)
 
 \REMOVE THESE
 
@@ -21,12 +24,16 @@ Each folder in this repository is a self-contained project demonstrating specifi
 ### 🤖 Autonomous Lawnmower
 Chassis and control system for a semi-autonomous electric mower.
 
-![Skills](https://img.shields.io/badge/weldment_design-656565)
-![Skills](https://img.shields.io/badge/Embedded_Control_Logic-656565)
-![Skills](https://img.shields.io/badge/Power_Integration-656565)  
-![Tool](https://img.shields.io/badge/Arduino-02699C)
-![Tool](https://img.shields.io/badge/Solidworks-02699C)
-![Tool](https://img.shields.io/badge/Sensor_Fusion-02699C)
+> ![Skills](https://img.shields.io/badge/Design_for_Manufacturing-02699C)
+  ![Skills](https://img.shields.io/badge/Design_for_Assembly-02699C)
+  ![Skills](https://img.shields.io/badge/Embedded_Control_Logic-02699C)
+  ![Skills](https://img.shields.io/badge/Power_Integration-02699C)
+  ![Skills](https://img.shields.io/badge/Sensor_Fusion-02699C)  
+> ![Tool](https://img.shields.io/badge/Arduino-FEED95)
+  ![Tool](https://img.shields.io/badge/ESP32-FEED95)
+  ![Tool](https://img.shields.io/badge/Solidworks-FEED95)
+  ![Tool](https://img.shields.io/badge/3D_Printing-FEED95)
+  ![Tool](https://img.shields.io/badge/GD&T-FEED95)
   
 
 <h3>
@@ -35,39 +42,47 @@ Chassis and control system for a semi-autonomous electric mower.
 </h3>
 <p>Parametric small form factor case designed for thermal optimization and efficient component layout.</p>
 
-![Skills](https://img.shields.io/badge/Solid_Modeling-02699C)
-![Skills](https://img.shields.io/badge/Airflow_Optimization-02699C)
-![Skills](https://img.shields.io/badge/Thermal_Analysis-02699C)
-![Skills](https://img.shields.io/badge/3D_Printing-02699C)  
-![Tool](https://img.shields.io/badge/Solidworks-FEED95)
-![Tool](https://img.shields.io/badge/SW_Fluid_Simulation-FEED95)
-![Tool](https://img.shields.io/badge/FDM_3D_Printer-FEED95)
-![Tool](https://img.shields.io/badge/FreeCAD-FEED95)
+> ![Skills](https://img.shields.io/badge/Solid_Modeling-02699C)
+  ![Skills](https://img.shields.io/badge/Airflow_Optimization-02699C)
+  ![Skills](https://img.shields.io/badge/Thermal_Analysis-02699C)
+  ![Skills](https://img.shields.io/badge/3D_Printing-02699C)  
+> ![Tool](https://img.shields.io/badge/Solidworks-FEED95)
+  ![Tool](https://img.shields.io/badge/SW_Fluid_Simulation-FEED95)
+  ![Tool](https://img.shields.io/badge/FDM_3D_Printer-FEED95)
+  ![Tool](https://img.shields.io/badge/FreeCAD-FEED95)
   
 
-### 📊🌐 Java Web Scraper + Excel Automation  
+### 🌐 Java Web Scraper & Excel Automation  
 Automated scraping of serial data and structured Excel reporting.
 
->🧠 Web automation · Data parsing · Test-driven development  
->🧰 Java · Selenium · Apache POI · TestNG · IntelliJ · Gradle
+> ![Skills](https://img.shields.io/badge/Web_Automation-02699C)
+  ![Skills](https://img.shields.io/badge/Data_Parsing-02699C)
+  ![Skills](https://img.shields.io/badge/Test_Driven_Development-02699C)  
+> ![Tool](https://img.shields.io/badge/Java-FEED95)
+  ![Tool](https://img.shields.io/badge/Selenium-FEED95)
+  ![Tool](https://img.shields.io/badge/Apache_POI_API-FEED95)
+  ![Tool](https://img.shields.io/badge/TestNG-FEED95)
+  ![Tool](https://img.shields.io/badge/IntelliJ-FEED95)
+  ![Tool](https://img.shields.io/badge/Gradle-FEED95)
+  ![Tool](https://img.shields.io/badge/Maven-FEED95)
   
 
 ### 🐧 Linux Desktop Environment Experiments  
 Exploration of custom workflows through Linux DE customization and scripting.
 
-![Distro](https://img.shields.io/badge/Pop!_OS-656565)
-![Distro](https://img.shields.io/badge/KDE_Neon-656565)
-![Distro](https://img.shields.io/badge/Ubuntu-656565)
-![Distro](https://img.shields.io/badge/Kubuntu-656565)
-![Distro](https://img.shields.io/badge/SolosOS-656565)
-![Distro](https://img.shields.io/badge/ChromeOS-656565)
-![Distro](https://img.shields.io/badge/Windows_10/11-656565)  
-![Skills](https://img.shields.io/badge/Shell_Scripting-02699C)
-![Skills](https://img.shields.io/badge/UI_Behavior_Tuning-02699C)
-![Skills](https://img.shields.io/badge/Boot_and_startup_automation-02699C)  
-![Tool](https://img.shields.io/badge/XFCE-FEED95)
-![Tool](https://img.shields.io/badge/Bash-FEED95)
-![Tool](https://img.shields.io/badge/Dual_Boot-FEED95)  
+> ![Distro](https://img.shields.io/badge/Pop!_OS-656565)
+  ![Distro](https://img.shields.io/badge/KDE_Neon-656565)
+  ![Distro](https://img.shields.io/badge/Ubuntu-656565)
+  ![Distro](https://img.shields.io/badge/Kubuntu-656565)
+  ![Distro](https://img.shields.io/badge/SolosOS-656565)
+  ![Distro](https://img.shields.io/badge/ChromeOS-656565)
+  ![Distro](https://img.shields.io/badge/Windows_10/11-656565)  
+> ![Skills](https://img.shields.io/badge/Shell_Scripting-02699C)
+  ![Skills](https://img.shields.io/badge/UI_Behavior_Tuning-02699C)
+  ![Skills](https://img.shields.io/badge/Boot_and_startup_automation-02699C)  
+> ![Tool](https://img.shields.io/badge/XFCE-FEED95)
+  ![Tool](https://img.shields.io/badge/Bash-FEED95)
+  ![Tool](https://img.shields.io/badge/Dual_Boot-FEED95)
   
 
 ### 🧪 Simulation & Analysis Projects  
