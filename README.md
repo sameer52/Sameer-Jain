@@ -21,8 +21,7 @@ This repository showcases a diverse range of engineering projects that integrate
 Each folder in this repository is a self-contained project demonstrating specific skills and tools. This layout presents both context and capability in a condensed, reader-friendly format.
 
 ---
-### 🤖 Autonomous Lawnmower
-Chassis and control system for a semi-autonomous electric mower.
+### 🤖 Autonomous Lawnmower (CAPSTONE)
 
 > ![Skills](https://img.shields.io/badge/Skills-Design_for_Manufacturing-02699C)
   ![Skills](https://img.shields.io/badge/Design_for_Assembly-02699C)
@@ -34,14 +33,18 @@ Chassis and control system for a semi-autonomous electric mower.
   ![Tool](https://img.shields.io/badge/Solidworks-FEED95)
   ![Tool](https://img.shields.io/badge/3D_Printing-FEED95)
   ![Tool](https://img.shields.io/badge/GD&T-FEED95)
-  
+
+Chassis and control system for a semi-autonomous electric mower.
+- **Objective**: Design and prototype a smart electric lawnmower capable of autonomous navigation and base docking.
+- **Subsystems**: Mechanical chassis, localization system (ESP32), depth sensors, microcontroller-based drive logic, CAD-based housing design.
+- **Software**: Arduino IDE, MATLAB simulations, SolidWorks design documentation.
+- **Outcome**: Capstone project under Prof. Ahmad Barari at Ontario Tech University.
 
 
 <h3>
   <img src="https://github.com/user-attachments/assets/eda94c2a-d5bd-4a34-8661-9ba9af9366ef" width="20" style="vertical-align:middle; margin-right:8px;">
   Custom ITX PC Case
 </h3>
-<p>Parametric small form factor case designed for thermal optimization and efficient component layout.</p>
 
 > ![Skills](https://img.shields.io/badge/Skills-Solid_Modeling-02699C)
   ![Skills](https://img.shields.io/badge/Airflow_Optimization-02699C)
@@ -51,7 +54,12 @@ Chassis and control system for a semi-autonomous electric mower.
   ![Tool](https://img.shields.io/badge/SW_Fluid_Simulation-FEED95)
   ![Tool](https://img.shields.io/badge/FDM_3D_Printer-FEED95)
   ![Tool](https://img.shields.io/badge/FreeCAD-FEED95)
-  
+
+Parametric small form factor case designed for thermal optimization and efficient component layout.
+- **Objective**: Design a compact, thermally optimized PC case with modular features for both workstation and server use.
+- **Subsystems**: Magnetically removable top panel, server-actuated top exhaust vents, PSU mounting for ATX and SFX, and modular internal brackets.
+- **Software**: Designed using SolidWorks and prepared for manufacturing with laser cutter-compatible formats.
+- **Outcome**: Created a space-efficient case with high airflow performance, automatic thermal control, and tool-less access for maintainability and upgradeability.
 
 ### 🌐 Java Web Scraper & Excel Automation  
 Automated scraping of serial data and structured Excel reporting.
@@ -119,16 +127,8 @@ Automated scraping of serial data and structured Excel reporting.
 ## 🧪 Featured Projects
 
 ### 🤖 Autonomous Smart Lawnmower (CAPSTONE)
-- **Objective**: Design and prototype a smart electric lawnmower capable of autonomous navigation and base docking.
-- **Subsystems**: Mechanical chassis, localization system (ESP32), depth sensors, microcontroller-based drive logic, CAD-based housing design.
-- **Software**: Arduino IDE, MATLAB simulations, SolidWorks design documentation.
-- **Outcome**: Capstone project under Prof. Ahmad Barari at Ontario Tech University.
 
 ### 🖥️ Custom Computer Case
-- **Objective**: Design a compact, thermally optimized PC case with modular features for both workstation and server use.
-- **Subsystems**: Magnetically removable top panel, server-actuated top exhaust vents, PSU mounting for ATX and SFX, and modular internal brackets.
-- **Software**: Designed using SolidWorks and prepared for manufacturing with laser cutter-compatible formats.
-- **Outcome**: Created a space-efficient case with high airflow performance, automatic thermal control, and tool-less access for maintainability and upgradeability.
 
 ---
 
