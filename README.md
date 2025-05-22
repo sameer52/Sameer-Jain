@@ -35,11 +35,28 @@ Each folder in this repository is a self-contained project demonstrating specifi
   ![Tool](https://img.shields.io/badge/3D_Printing-FEED95)
   ![Tool](https://img.shields.io/badge/GD&T-FEED95)
 
+Chassis and control system for a semi-autonomous electric mower.
+
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="vertical-align:top;">
+      <ul>
+        <li><strong>Objective</strong>: Design and prototype a smart electric lawnmower capable of autonomous navigation and base docking.</li>
+        <li><strong>Subsystems</strong>: Mechanical chassis, localization system (ESP32), depth sensors, microcontroller-based drive logic, CAD-based housing design.</li>
+        <li><strong>Software</strong>: Arduino IDE, MATLAB simulations, SolidWorks design documentation.</li>
+        <li><strong>Outcome</strong>: Capstone project under Prof. Ahmad Barari at Ontario Tech University.</li>
+      </ul>
+    </td>
+    <td style="text-align:center; vertical-align:top;">
+      <img src="https://gabrielecirulli.github.io/2048/meta/og_image.png" alt="Project Image" style="width:400px; border-radius:8px;">
+    </td>
+  </tr>
+</table>
+
 - **Objective**: Design and prototype a smart electric lawnmower capable of autonomous navigation and base docking.
 - **Subsystems**: Mechanical chassis, localization system (ESP32), depth sensors, microcontroller-based drive logic, CAD-based housing design.
 - **Software**: Arduino IDE, MATLAB simulations, SolidWorks design documentation.
-- **Outcome**: Capstone project under Prof. Ahmad Barari at Ontario Tech University.  
-Chassis and control system for a semi-autonomous electric mower.
+- **Outcome**: Capstone project under Prof. Ahmad Barari at Ontario Tech University.
 
 
 <h3>
