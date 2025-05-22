@@ -4,8 +4,9 @@ Welcome to my Engineering Portfolio. 🙋🏽‍♂️
 
 This repository showcases a diverse range of engineering projects that integrate mechanical design, electronics, control systems, software development, simulation, and manufacturing. While my foundation lies in mechanical engineering, my work extends into system-level thinking, such as bridging hardware and software to develop complete, functional solutions.
 
-![Skills](https://img.shields.io/badge/SolidWorks-CSWA-EB225E) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="logo" width="18"/> &nbsp;&nbsp;&nbsp;
-![Skills](https://img.shields.io/badge/SolidWorks-CSWP-009973) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="logo" width="18"/> &nbsp;&nbsp;&nbsp;
+![Skills](https://img.shields.io/badge/SolidWorks-CSWA-EB225E) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="SW-CSWA" width="18"/> &nbsp;&nbsp;&nbsp;
+![Skills](https://img.shields.io/badge/SolidWorks-CSWP-009973) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="SW-CSWP" width="18"/> &nbsp;&nbsp;&nbsp;
+![Skills](https://img.shields.io/badge/Python-PCEP-0066FF) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="Py-PCEP" width="18"/> &nbsp;&nbsp;&nbsp;
 
 <hr style="height:1px; background-color:#e0e0e0; border:none; margin: 20px 0;">
 
@@ -16,16 +17,16 @@ Each folder in this repository is a self-contained project demonstrating specifi
 
 ### 🤖 Autonomous Lawnmower (CAPSTONE)
 
-  ![Skills](https://img.shields.io/badge/Skills-Design_for_Manufacturing-02699C)
-  ![Skills](https://img.shields.io/badge/Design_for_Assembly-02699C)
-  ![Skills](https://img.shields.io/badge/Embedded_Control_Logic-02699C)
-  ![Skills](https://img.shields.io/badge/Power_Integration-02699C)
-  ![Skills](https://img.shields.io/badge/Sensor_Fusion-02699C)  
-  ![Tool](https://img.shields.io/badge/Tools-Arduino-FEED95)
-  ![Tool](https://img.shields.io/badge/ESP32-FEED95)
-  ![Tool](https://img.shields.io/badge/Solidworks-FEED95)
-  ![Tool](https://img.shields.io/badge/3D_Printing-FEED95)
-  ![Tool](https://img.shields.io/badge/GD&T-FEED95)
+![Skills](https://img.shields.io/badge/Skills-Design_for_Manufacturing-02699C)
+![Skills](https://img.shields.io/badge/Design_for_Assembly-02699C)
+![Skills](https://img.shields.io/badge/Embedded_Control_Logic-02699C)
+![Skills](https://img.shields.io/badge/Power_Integration-02699C)
+![Skills](https://img.shields.io/badge/Sensor_Fusion-02699C)  
+![Tool](https://img.shields.io/badge/Tools-Arduino-FEED95)
+![Tool](https://img.shields.io/badge/ESP32-FEED95)
+![Tool](https://img.shields.io/badge/Solidworks-FEED95)
+![Tool](https://img.shields.io/badge/3D_Printing-FEED95)
+![Tool](https://img.shields.io/badge/GD&T-FEED95)
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
@@ -43,7 +44,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
       </ul>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:400px; border-radius:8px;">
+      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:300px; border-radius:8px;">
     </td>
   </tr>
 </table>
@@ -56,17 +57,17 @@ Each folder in this repository is a self-contained project demonstrating specifi
   Custom ITX PC Case
 </h3>
 
-  ![Skills](https://img.shields.io/badge/Skills-Solid_Modeling-02699C)
-  ![Skills](https://img.shields.io/badge/Airflow_Optimization-02699C)
-  ![Skills](https://img.shields.io/badge/Thermal_Analysis-02699C)
-  ![Skills](https://img.shields.io/badge/CAD_Assembly-02699C)
-  ![Skills](https://img.shields.io/badge/Tolerancing-02699C)
-  ![Skills](https://img.shields.io/badge/DFM-02699C)
-  ![Skills](https://img.shields.io/badge/DFA-02699C)  
-  ![Tool](https://img.shields.io/badge/Tools-Solidworks-FEED95)
-  ![Tool](https://img.shields.io/badge/Fluid_Simulation-FEED95)
-  ![Tool](https://img.shields.io/badge/FDM_3D_Printer-FEED95)
-  ![Tool](https://img.shields.io/badge/BambuStudio-FEED95)
+![Skills](https://img.shields.io/badge/Skills-Solid_Modeling-02699C)
+![Skills](https://img.shields.io/badge/Airflow_Optimization-02699C)
+![Skills](https://img.shields.io/badge/Thermal_Analysis-02699C)
+![Skills](https://img.shields.io/badge/CAD_Assembly-02699C)
+![Skills](https://img.shields.io/badge/GD﹠T-02699C)
+![Skills](https://img.shields.io/badge/DFM-02699C)
+![Skills](https://img.shields.io/badge/DFA-02699C)  
+![Tool](https://img.shields.io/badge/Tools-Solidworks-FEED95)
+![Tool](https://img.shields.io/badge/Fluid_Simulation-FEED95)
+![Tool](https://img.shields.io/badge/FDM_3D_Printer-FEED95)
+![Tool](https://img.shields.io/badge/BambuStudio-FEED95)
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
@@ -92,16 +93,16 @@ Each folder in this repository is a self-contained project demonstrating specifi
 
 ### 🌐 Java Web Scraper & Excel Automation  
 
-  ![Skills](https://img.shields.io/badge/Skills-Web_Automation-02699C)
-  ![Skills](https://img.shields.io/badge/Data_Parsing-02699C)
-  ![Skills](https://img.shields.io/badge/Test_Driven_Development-02699C)  
-  ![Tool](https://img.shields.io/badge/Tools-Java-FEED95)
-  ![Tool](https://img.shields.io/badge/Selenium-FEED95)
-  ![Tool](https://img.shields.io/badge/Apache_POI_API-FEED95)
-  ![Tool](https://img.shields.io/badge/TestNG-FEED95)
-  ![Tool](https://img.shields.io/badge/IntelliJ-FEED95)
-  ![Tool](https://img.shields.io/badge/Gradle-FEED95)
-  ![Tool](https://img.shields.io/badge/Maven-FEED95)
+![Skills](https://img.shields.io/badge/Skills-Web_Automation-02699C)
+![Skills](https://img.shields.io/badge/Data_Parsing-02699C)
+![Skills](https://img.shields.io/badge/Test_Driven_Development-02699C)  
+![Tool](https://img.shields.io/badge/Tools-Java-FEED95)
+![Tool](https://img.shields.io/badge/Selenium-FEED95)
+![Tool](https://img.shields.io/badge/Apache_POI_API-FEED95)
+![Tool](https://img.shields.io/badge/TestNG-FEED95)
+![Tool](https://img.shields.io/badge/IntelliJ-FEED95)
+![Tool](https://img.shields.io/badge/Gradle-FEED95)
+![Tool](https://img.shields.io/badge/Maven-FEED95)
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
@@ -116,7 +117,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
       </ul>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:400px; border-radius:8px;">
+      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:300px; border-radius:8px;">
     </td>
   </tr>
 </table>
@@ -130,19 +131,19 @@ Each folder in this repository is a self-contained project demonstrating specifi
 </h3>
 <p>Exploration of custom workflows through Linux DE customization and scripting.</p>
 
-> ![Distro](https://img.shields.io/badge/Distros-KDE_Neon-B6B6B6)
-  ![Distro](https://img.shields.io/badge/Ubuntu-B6B6B6)
-  ![Distro](https://img.shields.io/badge/Kubuntu-B6B6B6)
-  ![Distro](https://img.shields.io/badge/OrangePi_OS-B6B6B6)
-  ![Distro](https://img.shields.io/badge/Manjaro-B6B6B6)
-  ![Distro](https://img.shields.io/badge/Pop!_OS-B6B6B6)
-  ![Distro](https://img.shields.io/badge/SolosOS-B6B6B6)  
-> ![Skills](https://img.shields.io/badge/Skills-Shell_Scripting-02699C)
-  ![Skills](https://img.shields.io/badge/Networking-02699C)
-  ![Skills](https://img.shields.io/badge/Permission_Mgmt-02699C)  
-> ![Tool](https://img.shields.io/badge/Tools-Samba-FEED95)
-  ![Tool](https://img.shields.io/badge/SSH-FEED95)
-  ![Tool](https://img.shields.io/badge/RSYNC-FEED95)
+![Distro](https://img.shields.io/badge/Distros-KDE_Neon-B6B6B6)
+![Distro](https://img.shields.io/badge/Ubuntu-B6B6B6)
+![Distro](https://img.shields.io/badge/Kubuntu-B6B6B6)
+![Distro](https://img.shields.io/badge/OrangePi_OS-B6B6B6)
+![Distro](https://img.shields.io/badge/Manjaro-B6B6B6)
+![Distro](https://img.shields.io/badge/Pop!_OS-B6B6B6)
+![Distro](https://img.shields.io/badge/SolosOS-B6B6B6)  
+![Skills](https://img.shields.io/badge/Skills-Shell_Scripting-02699C)
+![Skills](https://img.shields.io/badge/Networking-02699C)
+![Skills](https://img.shields.io/badge/Permission_Mgmt-02699C)  
+![Tool](https://img.shields.io/badge/Tools-Samba-FEED95)
+![Tool](https://img.shields.io/badge/SSH-FEED95)
+![Tool](https://img.shields.io/badge/RSYNC-FEED95)
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
@@ -156,7 +157,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
       </ul>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:400px; border-radius:8px;">
+      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:300px; border-radius:8px;">
     </td>
   </tr>
 </table>
@@ -170,12 +171,12 @@ Each folder in this repository is a self-contained project demonstrating specifi
 </h3>
 <p>Validation of mechanical designs through simulation and modeling.</p>
 
-> ![Skills](https://img.shields.io/badge/Skills-Stress_&_Modal_Analysis-02699C)
-  ![Skills](https://img.shields.io/badge/Dynamic_System_Modeling-02699C)
-  ![Skills](https://img.shields.io/badge/Thermal_behavior-02699C)  
-> ![Tool](https://img.shields.io/badge/Tools-SolidWorks_Simulation-FEED95)
-  ![Tool](https://img.shields.io/badge/MATLAB-FEED95)
-  ![Tool](https://img.shields.io/badge/Numerical_Methods-FEED95)
+![Skills](https://img.shields.io/badge/Skills-Stress_&_Modal_Analysis-02699C)
+![Skills](https://img.shields.io/badge/Dynamic_System_Modeling-02699C)
+![Skills](https://img.shields.io/badge/Thermal_behavior-02699C)  
+![Tool](https://img.shields.io/badge/Tools-SolidWorks_Simulation-FEED95)
+![Tool](https://img.shields.io/badge/MATLAB-FEED95)
+![Tool](https://img.shields.io/badge/Numerical_Methods-FEED95)
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
@@ -189,7 +190,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
       </ul>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:400px; border-radius:8px;">
+      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:300px; border-radius:8px;">
     </td>
   </tr>
 </table>
