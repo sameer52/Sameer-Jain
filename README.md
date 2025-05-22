@@ -48,7 +48,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
       </ul>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <img src="https://gabrielecirulli.github.io/2048/meta/og_image.png" alt="Project Image" style="width:400px; border-radius:8px;">
+      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower.jpg" alt="Project Image" style="width:400px; border-radius:8px;">
     </td>
   </tr>
 </table>
@@ -142,7 +142,23 @@ Each folder in this repository is a self-contained project demonstrating specifi
 > ![Tool](https://img.shields.io/badge/Tools-XFCE-FEED95)
   ![Tool](https://img.shields.io/badge/Bash-FEED95)
   ![Tool](https://img.shields.io/badge/Dual_Boot-FEED95)
-  
+
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="vertical-align:top;">
+      <ul>
+        <li><strong>Objective</strong>: </li>
+        <li><strong>Subsystems</strong>: </li>
+        <li><strong>Software</strong>: </li>
+        <li><strong>Outcome</strong>: </li>
+      </ul>
+    </td>
+    <td style="text-align:center; vertical-align:top;">
+      <img src="https://gabrielecirulli.github.io/2048/meta/og_image.png" alt="Project Image" style="width:400px; border-radius:8px;">
+    </td>
+  </tr>
+</table>
+
 ---
 
 
@@ -159,6 +175,22 @@ Each folder in this repository is a self-contained project demonstrating specifi
   ![Tool](https://img.shields.io/badge/MATLAB-FEED95)
   ![Tool](https://img.shields.io/badge/Numerical_Methods-FEED95)
 
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="vertical-align:top;">
+      <ul>
+        <li><strong>Objective</strong>: </li>
+        <li><strong>Subsystems</strong>: </li>
+        <li><strong>Software</strong>: </li>
+        <li><strong>Outcome</strong>: </li>
+      </ul>
+    </td>
+    <td style="text-align:center; vertical-align:top;">
+      <img src="https://gabrielecirulli.github.io/2048/meta/og_image.png" alt="Project Image" style="width:400px; border-radius:8px;">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🧠 Core Technical Proficiencies
@@ -170,14 +202,6 @@ Each folder in this repository is a self-contained project demonstrating specifi
 - **Tools**: IntelliJ, VS Code, Git, Gradle, Nano, KiCad  
 - **OS Configuration**: Linux customization, automation scripts, dual-boot setups  
 - **Soft Skills**: Documentation, team collaboration, stakeholder engagement, project leadership
-
----
-
-## 🧪 Featured Projects
-
-### 🤖 Autonomous Smart Lawnmower (CAPSTONE)
-
-### 🖥️ Custom Computer Case
 
 ---
 
