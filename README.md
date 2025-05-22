@@ -48,7 +48,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
       </ul>
     </td>
     <td style="text-align:center; vertical-align:top;">
-      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower.jpg" alt="Lawnmower Image" style="width:400px; border-radius:8px;">
+      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:400px; border-radius:8px;">
     </td>
   </tr>
 </table>
