@@ -53,10 +53,7 @@ Chassis and control system for a semi-autonomous electric mower.
   </tr>
 </table>
 
-- **Objective**: Design and prototype a smart electric lawnmower capable of autonomous navigation and base docking.
-- **Subsystems**: Mechanical chassis, localization system (ESP32), depth sensors, microcontroller-based drive logic, CAD-based housing design.
-- **Software**: Arduino IDE, MATLAB simulations, SolidWorks design documentation.
-- **Outcome**: Capstone project under Prof. Ahmad Barari at Ontario Tech University.
+---
 
 
 <h3>
@@ -74,10 +71,24 @@ Chassis and control system for a semi-autonomous electric mower.
   ![Tool](https://img.shields.io/badge/FreeCAD-FEED95)
 
 Parametric small form factor case designed for thermal optimization and efficient component layout.
-- **Objective**: Design a compact, thermally optimized PC case with modular features for both workstation and server use.
-- **Subsystems**: Magnetically removable top panel, server-actuated top exhaust vents, PSU mounting for ATX and SFX, and modular internal brackets.
-- **Software**: Designed using SolidWorks and prepared for manufacturing with laser cutter-compatible formats.
-- **Outcome**: Created a space-efficient case with high airflow performance, automatic thermal control, and tool-less access for maintainability and upgradeability.
+
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="vertical-align:top;">
+      <ul>
+        <li><strong>Objective</strong>: Design a compact, thermally optimized PC case with modular features for both workstation and server use.</li>
+        <li><strong>Subsystems</strong>: Magnetically removable top panel, server-actuated top exhaust vents, PSU mounting for ATX and SFX, and modular internal brackets.</li>
+        <li><strong>Software</strong>: Designed using SolidWorks and prepared for manufacturing with laser cutter-compatible formats.</li>
+        <li><strong>Outcome</strong>: Created a space-efficient case with high airflow performance, automatic thermal control, and tool-less access for maintainability and upgradeability.</li>
+      </ul>
+    </td>
+    <td style="text-align:center; vertical-align:top;">
+      <img src="https://gabrielecirulli.github.io/2048/meta/og_image.png" alt="Project Image" style="width:400px; border-radius:8px;">
+    </td>
+  </tr>
+</table>
+
+---
 
 
 ### 🌐 Java Web Scraper & Excel Automation  
@@ -93,6 +104,8 @@ Automated scraping of serial data and structured Excel reporting.
   ![Tool](https://img.shields.io/badge/IntelliJ-FEED95)
   ![Tool](https://img.shields.io/badge/Gradle-FEED95)
   ![Tool](https://img.shields.io/badge/Maven-FEED95)
+
+---
 
 
 <h3>
@@ -115,6 +128,8 @@ Automated scraping of serial data and structured Excel reporting.
   ![Tool](https://img.shields.io/badge/Bash-FEED95)
   ![Tool](https://img.shields.io/badge/Dual_Boot-FEED95)
   
+---
+
 
 <h3>
   <img src="https://github.com/user-attachments/assets/9890478d-9641-469b-bb84-5c88dc1840b1" width="20" style="vertical-align:middle; margin-right:8px;">
