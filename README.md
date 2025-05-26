@@ -41,52 +41,60 @@ Real-time telemetry and remote control via WiFi.
         <td style="vertical-align:top;">
           Spearheaded mechanical development from initial requirements to final prototype, emphasizing modularity for
           <ul>
-            <li>maintenance</li>
-            <li>continuous improvement</li>
+            <li> <strong>maintenance</strong> and <strong>continuous</strong> improvement</li>
+            &nbsp;
           </ul>
           Created an original PLA chassis in SolidWorks, validated structural integrity with anisotropic FEM simulations to ensure durability during operation
           <ul>
             <li></li>
             <li></li>
             <li></li>
+            &nbsp;
           </ul>
           Applied DFM/DFA principles to reduce part count, simplify assembly, and accelerate iteration cycles within project timeline despite limited team resources
           <ul>
             <li></li>
             <li></li>
             <li></li>
+            &nbsp;
           </ul>
           Each of the 11 iterations targeted key areas ; drive system, chassis stiffness, internal component layout, cutting mechanism integration, and more
           <ul>
             <li></li>
             <li></li>
             <li></li>
+            &nbsp;
           </ul>
           Integrated ESP32 with motor encoders, induction sensors for boundary detection, ultrasonic sensors, and Gyroscope, for real-time control
           <ul>
             <li></li>
             <li></li>
             <li></li>
+            &nbsp;
           </ul>
           <ul>
             <li></li>
             <li></li>
             <li></li>
+            &nbsp;
           </ul>
           <ul>
             <li></li>
             <li></li>
             <li></li>
+            &nbsp;
           </ul>
           <ul>
             <li></li>
             <li></li>
             <li></li>
+            &nbsp;
           </ul>
           <ul>
             <li></li>
             <li></li>
             <li></li>
+            &nbsp;
           </ul>
         </td>
         <td style="text-align:center; vertical-align:top;">
