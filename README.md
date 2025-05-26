@@ -51,11 +51,11 @@ Real-time telemetry and remote control via WiFi.
             <li></li>
             &nbsp;
           </ul>
-          Applied DFM/DFA principles to reduce part count, simplify assembly, and accelerate iteration cycles within project timeline despite limited team resources
+          Applied DFM/DFA principles to
           <ul>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>reduce part count, ... (benefit of reduced parts)</li>
+            <li>simplify assembly, ... (benefits to project?)</li>
+            <li>accelerate iteration cycles within project timeline despite limited team resources</li>
             &nbsp;
           </ul>
           Each of the 11 iterations targeted key areas ; drive system, chassis stiffness, internal component layout, cutting mechanism integration, and more
