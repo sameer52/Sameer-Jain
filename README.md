@@ -33,9 +33,9 @@ Built a ESP32-based, autonomous lawnmower from the ground up.
 <ul>
 <details>
   <summary><strong><i>MORE ABOUT THIS PROJECT!</i></strong></summary>
-    <table style="width:100%;">
+    <table style="width:100%; border:none; border-collapse:collapse;">
       <tr>
-        <td>
+        <td style="vertical-align:middle;">
             <!-- * -->
             <li>Spearheaded mechanical development from initial requirements to final prototype, emphasizing modularity for <strong>maintenance</strong> and <strong>continuous</strong> improvement</li>
             &nbsp;
@@ -56,30 +56,20 @@ Built a ESP32-based, autonomous lawnmower from the ground up.
             </ul>
             &nbsp;
             <!-- * -->
-            <li>Integrated ESP32 with</li>
-            <ul>
-              <li>motor encoders, induction sensors for boundary detection, ultrasonic sensors, and Gyroscope</li>
-            for real-time control</li>
-            </ul>
+            <li>Implemented an induced boundary wire system enabling safe autonomous operation within user-defined zones</li>
             &nbsp;
             <!-- * -->
             <li>Programmed embedded navigation and obstacle avoidance logic using Arduino IDE with responsive sensor fusion and feedback control.</li>
-            <ul>
-              <li></li>
-            </ul>
             &nbsp;
             <!-- * -->
             <li>Tuned hardware/software integration through repeated field tests, improving stability, accuracy, and response time over time.</li>
-            <ul>
-              <li></li>
-            </ul>
             &nbsp;
         </td>
-        <td style="text-align:center; vertical-align:center;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:100px;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:100px;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:100px;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:100px;">
+        <td style="text-align:center;">
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image 1" style="width:290px;"><br>
         </td>
       </tr>
     </table>
