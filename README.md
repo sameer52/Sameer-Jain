@@ -33,14 +33,20 @@ Each folder in this repository is a self-contained project demonstrating specifi
     <td style="vertical-align:top;">
       Chassis and control system for a semi-autonomous electric mower.
       <ul>
-        <li>Led end-to-end development of a semi-autonomous electric lawnmower from user needs and system architecture to prototyping and testing</li>
-        <li>Designed modular PLA chassis using SolidWorks; validated frame strength and thermal airflow via FEM and CFD simulations</li>
-        <li>Integrated ESP32-based control system with motor drivers, ultrasonic sensors, and IMU/GPS for real-time navigation and obstacle avoidance</li>
-        <li>Programmed embedded control logic using Arduino IDE; tested path planning and obstacle avoidance across 7 field trials</li>
-        <li>Performed 11 design iterations based on thermal, electrical, and mechanical performance data</li>
-        <li>Developed modular, 3D-printable and laser-cut enclosures for electronics, improving serviceability and assembly efficiency</li>
-        <li>Applied Design for Manufacturing (DFM) and Design for Assembly (DFA) principles to reduce wiring effort and assembly time</li>
-        <li>Documented development, wiring diagrams, control logic, and testing results</li>
+        <li>Spearheaded mechanical development from initial requirements to final prototype, emphasizing modularity for maintenance and continuous improvement</li>
+        <li>Created an original PLA chassis in SolidWorks, validated structural integrity with anisotropic FEM simulations to ensure durability during operation</li>
+        <li>Applied DFM/DFA principles to improve manufacturability, maintenance accessibility, and long-term expandability</li>
+        <li>Applied DFM/DFA principles to reduce part count, simplify assembly, and accelerate iteration cycles within project timeline despite limited team resources</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
       </ul>
     </td>
     <td style="text-align:center; vertical-align:top;">
