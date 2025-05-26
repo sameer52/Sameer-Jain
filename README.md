@@ -75,12 +75,12 @@ Built a ESP32-based, autonomous lawnmower from the ground up.
             </ul>
             &nbsp;
         </td>
-        <!--<td>
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:100px;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:100px;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:100px;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:100px;">
-        </td> -->
+        <td style="text-align:center; vertical-align:center;">
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:100px;">
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:100px;">
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:100px;">
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:100px;">
+        </td>
       </tr>
     </table>
 </details>
