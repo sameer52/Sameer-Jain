@@ -35,10 +35,9 @@ Each folder in this repository is a self-contained project demonstrating specifi
       <ul>
         <li>Spearheaded mechanical development from initial requirements to final prototype, emphasizing modularity for maintenance and continuous improvement</li>
         <li>Created an original PLA chassis in SolidWorks, validated structural integrity with anisotropic FEM simulations to ensure durability during operation</li>
-        <li>Applied DFM/DFA principles to improve manufacturability, maintenance accessibility, and long-term expandability</li>
         <li>Applied DFM/DFA principles to reduce part count, simplify assembly, and accelerate iteration cycles within project timeline despite limited team resources</li>
-        <li></li>
-        <li></li>
+        <li>Each of the 11 iterations targeted key areas ; drive system, chassis stiffness, internal component layout, cutting mechanism integration, and more</li>
+        <li>Integrated ESP32 with motor encoders, induction sensors for boundary detection, ultrasonic sensors, and Gyroscope, for real-time control</li>
         <li></li>
         <li></li>
         <li></li>
