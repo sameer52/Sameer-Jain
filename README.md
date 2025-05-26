@@ -31,12 +31,14 @@ Each folder in this repository is a self-contained project demonstrating specifi
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="vertical-align:top;">
-      Built a ESP32-based, autonomous lawnmower from the ground up.  
-      Designed with obstacle avoidance and boundary-wire capabilities.  
-      Real-time telemetry and remote control via WiFi.  
+      Built a ESP32-based, autonomous lawnmower from the ground up.<br>
+      Designed with obstacle avoidance and boundary-wire capabilities.<br>
+      Real-time telemetry and remote control via WiFi.<br>
     </td>
-    <td style="text-align:center; vertical-align:top;">
-      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:300px; border-radius:8px;">
+    <td style="text-align:center; vertical-align:top; white-space:nowrap; padding:0px;">
+      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:140px; border-radius:8px;">
+      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:140px; border-radius:8px;">
+      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:140px; border-radius:8px;">
     </td>
   </tr>
 </table>
