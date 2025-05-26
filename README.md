@@ -28,63 +28,59 @@ Each folder in this repository is a self-contained project demonstrating specifi
 ![Tool](https://img.shields.io/badge/3D_Printing-FEED95)
 ![Tool](https://img.shields.io/badge/GD&T-FEED95)
 
-<table style="width:100%; border:none; border-collapse:collapse;">
-  <tr>
-    <td style="vertical-align:top;">
-      <li>Built a ESP32-based, autonomous lawnmower from the ground up.</li>
-      <li>Designed with obstacle avoidance and boundary-wire capabilities.</li>
-      <li>Real-time telemetry and remote control via WiFi.</li>
-    </td>
-    <td style="text-align:center; vertical-align:top; white-space:nowrap; padding:0px;">
-      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:80px; border-radius:8px;">
-      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:80px; border-radius:8px;">
-      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:80px; border-radius:8px;">
-      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:80px; border-radius:8px;">
-    </td>
-  </tr>
-</table>
+Built a ESP32-based, autonomous lawnmower from the ground up.
 
 <ul>
 <details>
   <summary><strong><i>MORE ABOUT THIS PROJECT!</i></strong></summary>
-    <table style="width:100%; border:none; border-collapse:collapse;">
+    <table style="width:100%;">
       <tr>
-        <td style="vertical-align:top;">
-          Spearheaded mechanical development from initial requirements to final prototype, emphasizing modularity for
-          <ul>
-            <li> <strong>maintenance</strong> and <strong>continuous</strong> improvement</li>
+        <td>
+            <!-- * -->
+            <li>Spearheaded mechanical development from initial requirements to final prototype, emphasizing modularity for <strong>maintenance</strong> and <strong>continuous</strong> improvement</li>
             &nbsp;
-          </ul>
-          Created an original PLA chassis in SolidWorks, validated structural integrity with anisotropic FEM simulations to ensure durability during operation <br>
-          <br>
-          Applied DFM/DFA principles to
-          <ul>
-            <li>reduce part count, ... (benefit of reduced parts)</li>
-            <li>simplify assembly, ... (benefits to project?)</li>
-            <li>accelerate iteration cycles within project timeline despite limited team resources</li>
+            <li>Created an original PLA chassis in SolidWorks, validated structural integrity with anisotropic FEM simulations to ensure durability during operation</li>
             &nbsp;
-          </ul>
-          Each of the 11 iterations targeted key areas including but not limited to
-          <ul>
-            <li>drive system, chassis stiffness, internal component layout, and cutting mechanism integration</li>
+            <!-- * -->
+            <li>Applied DFM/DFA principles to</li>
+              <ul>
+                <li>reduce part count, ... (benefit of reduced parts)</li>
+                <li>simplify assembly, ... (benefits to project?)</li>
+                <li>accelerate iteration cycles within project timeline despite limited team resources</li>
+              </ul>
             &nbsp;
-          </ul>
-          Integrated ESP32 with
-          <ul>
-            <li>motor encoders, induction sensors for boundary detection, ultrasonic sensors, and Gyroscope</li>
-            for real-time control
-            <br>&nbsp;
-          </ul>
-          Programmed embedded navigation and obstacle avoidance logic using Arduino IDE with responsive sensor fusion and feedback control.
-          Tuned hardware/software integration through repeated field tests, improving stability, accuracy, and response time over time.
+            <!-- * -->
+            <li>Each of the 11 iterations targeted key areas including but not limited to</li>
+            <ul>
+              <li>drive system, chassis stiffness, internal component layout, and cutting mechanism integration</li>
+            </ul>
+            &nbsp;
+            <!-- * -->
+            <li>Integrated ESP32 with</li>
+            <ul>
+              <li>motor encoders, induction sensors for boundary detection, ultrasonic sensors, and Gyroscope</li>
+            for real-time control</li>
+            </ul>
+            &nbsp;
+            <!-- * -->
+            <li>Programmed embedded navigation and obstacle avoidance logic using Arduino IDE with responsive sensor fusion and feedback control.</li>
+            <ul>
+              <li></li>
+            </ul>
+            &nbsp;
+            <!-- * -->
+            <li>Tuned hardware/software integration through repeated field tests, improving stability, accuracy, and response time over time.</li>
+            <ul>
+              <li></li>
+            </ul>
+            &nbsp;
         </td>
-        <td style="text-align:center; vertical-align:top;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:125px;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:125px;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:125px;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:125px;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:125px;">
-        </td>
+        <!--<td>
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:100px;">
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:100px;">
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:100px;">
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="height:100px;">
+        </td> -->
       </tr>
     </table>
 </details>
