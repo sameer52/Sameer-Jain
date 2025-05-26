@@ -14,6 +14,7 @@ This repository showcases a diverse range of engineering projects that integrate
 
 Each folder in this repository is a self-contained project demonstrating specific skills and tools. This layout presents both context and capability in a condensed, reader-friendly format.
 
+<br>
 
 ### 🤖 Autonomous Lawnmower (CAPSTONE)
 
@@ -28,33 +29,76 @@ Each folder in this repository is a self-contained project demonstrating specifi
 ![Tool](https://img.shields.io/badge/3D_Printing-FEED95)
 ![Tool](https://img.shields.io/badge/GD&T-FEED95)
 
-<table style="width:100%; border:none; border-collapse:collapse;">
-  <tr>
-    <td style="vertical-align:top;">
-      Chassis and control system for a semi-autonomous electric mower.
-      <ul>
-        <li>Spearheaded mechanical development from initial requirements to final prototype, emphasizing modularity for maintenance and continuous improvement</li>
-        <li>Created an original PLA chassis in SolidWorks, validated structural integrity with anisotropic FEM simulations to ensure durability during operation</li>
-        <li>Applied DFM/DFA principles to reduce part count, simplify assembly, and accelerate iteration cycles within project timeline despite limited team resources</li>
-        <li>Each of the 11 iterations targeted key areas ; drive system, chassis stiffness, internal component layout, cutting mechanism integration, and more</li>
-        <li>Integrated ESP32 with motor encoders, induction sensors for boundary detection, ultrasonic sensors, and Gyroscope, for real-time control</li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ul>
-    </td>
-    <td style="text-align:center; vertical-align:top;">
-      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:300px; border-radius:8px;">
-    </td>
-  </tr>
-</table>
+Built a ESP32-based, autonomous lawnmower from the ground up.  
+Designed with obstacle avoidance and boundary-wire capabilities.  
+Real-time telemetry and remote control via WiFi.  
 
-[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
+<ul>
+<details>
+  <summary><strong><i>MORE ABOUT THIS PROJECT!</i></strong></summary>
+    <table style="width:100%; border:none; border-collapse:collapse;">
+      <tr>
+        <td style="vertical-align:top;">
+          Spearheaded mechanical development from initial requirements to final prototype, emphasizing modularity for
+          <ul>
+            <li>maintenance</li>
+            <li>continuous improvement</li>
+          </ul>
+          Created an original PLA chassis in SolidWorks, validated structural integrity with anisotropic FEM simulations to ensure durability during operation
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          Applied DFM/DFA principles to reduce part count, simplify assembly, and accelerate iteration cycles within project timeline despite limited team resources
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          Each of the 11 iterations targeted key areas ; drive system, chassis stiffness, internal component layout, cutting mechanism integration, and more
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          Integrated ESP32 with motor encoders, induction sensors for boundary detection, ultrasonic sensors, and Gyroscope, for real-time control
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+        </td>
+        <td style="text-align:center; vertical-align:top;">
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:300px; border-radius:8px;">
+        </td>
+      </tr>
+    </table>
+</details>
+
+[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52/Autonomous-Lawnmower) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
+
+</ul>
 
 <br>
 
