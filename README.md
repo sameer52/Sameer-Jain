@@ -4,8 +4,7 @@ Welcome to my Engineering Portfolio. 🙋🏽‍♂️
 
 This repository showcases a diverse range of engineering projects that integrate mechanical design, electronics, control systems, software development, simulation, and manufacturing. While my foundation lies in mechanical engineering, my work extends into system-level thinking, such as bridging hardware and software to develop complete, functional solutions.
 
-![Skills](https://img.shields.io/badge/SolidWorks-CSWA-EB225E) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="SW-CSWA" width="18"/> &nbsp;&nbsp;&nbsp;
-![Skills](https://img.shields.io/badge/SolidWorks-CSWP-009973) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="SW-CSWP" width="18"/> &nbsp;&nbsp;&nbsp;
+![Skills](https://img.shields.io/badge/SolidWorks-CSWA-EB225E) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="SW-CSWA" width="18"/> &nbsp;&nbsp;&nbsp;<!--![Skills](https://img.shields.io/badge/SolidWorks-CSWP-009973) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="SW-CSWP" width="18"/> &nbsp;&nbsp;&nbsp; -->
 ![Skills](https://img.shields.io/badge/Python-PCEP-0066FF) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="Py-PCEP" width="18"/> &nbsp;&nbsp;&nbsp;
 
 <hr style="height:1px; background-color:#e0e0e0; border:none; margin: 20px 0;">
@@ -16,7 +15,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
 
 <br>
 
-### 🤖 Autonomous Robotic Lawnmower (CAPSTONE)
+### 🤖 Autonomous <ins>Robot</ins> Lawnmower (CAPSTONE)
 
 ![Skills](https://img.shields.io/badge/Skills-Design_for_Manufacturing-02699C)
 ![Skills](https://img.shields.io/badge/Design_for_Assembly-02699C)
@@ -29,9 +28,18 @@ Each folder in this repository is a self-contained project demonstrating specifi
 ![Tool](https://img.shields.io/badge/3D_Printing-FEED95)
 ![Tool](https://img.shields.io/badge/GD&T-FEED95)
 
-Built a ESP32-based, autonomous lawnmower from the ground up.  
-Designed with obstacle avoidance and boundary-wire capabilities.  
-Real-time telemetry and remote control via WiFi.  
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="vertical-align:top;">
+      Built a ESP32-based, autonomous lawnmower from the ground up.  
+      Designed with obstacle avoidance and boundary-wire capabilities.  
+      Real-time telemetry and remote control via WiFi.  
+    </td>
+    <td style="text-align:center; vertical-align:top;">
+      <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image" style="width:300px; border-radius:8px;">
+    </td>
+  </tr>
+</table>
 
 <ul>
 <details>
