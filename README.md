@@ -209,24 +209,46 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 ![Tool](https://img.shields.io/badge/MATLAB-FEED95)
 ![Tool](https://img.shields.io/badge/Numerical_Methods-FEED95)
 
-<table style="width:100%; border:none; border-collapse:collapse;">
-  <tr>
-    <td style="vertical-align:top;">
-      <ul>
-        <li><strong>Objective</strong>: </li>
-        <li><strong>Subsystems</strong>: </li>
-        <li><strong>Software</strong>: </li>
-        <li><strong>Outcome</strong>: </li>
-        <li><strong>Key Features</strong>: </li>
-      </ul>
-    </td>
-    <td style="text-align:center; vertical-align:top;">
-      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:300px; border-radius:8px;">
-    </td>
-  </tr>
-</table>
+<ul>
+  <details>
+  <summary><strong><i>MORE ABOUT THIS PROJECT!</i></strong></summary>
+    <table style="width:100%; border:none; border-collapse:collapse;">
+      <tr>
+        <td style="vertical-align:middle;">
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+        </td>
+        <td style="text-align:center;">
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 2" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 3" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 4" style="width:290px;"><br>
+        </td>
+      </tr>
+    </table>
+  </details>
+</ul>
 
-[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
+[![Skills](https://img.shields.io/badge/GitHub-PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Skills](https://img.shields.io/badge/OSF-PROJECT_LINK_|_Click_Me!-82DFC6)](https://osf.io/hv5g8/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
 <br>
 
 
@@ -244,27 +266,48 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 ![Tool](https://img.shields.io/badge/Gradle-FEED95)
 ![Tool](https://img.shields.io/badge/Maven-FEED95)
 
-<table style="width:100%; border:none; border-collapse:collapse;">
-  <tr>
-    <td style="vertical-align:top;">
-      Automated scraping of serial data and structured Excel reporting.
-      <ul>
-        <li><strong>Objective</strong>: </li>
-        <li><strong>Subsystems</strong>: </li>
-        <li><strong>Software</strong>: </li>
-        <li><strong>Outcome</strong>: </li>
-        <li><strong>Key Features</strong>: </li>
-      </ul>
-    </td>
-    <td style="text-align:center; vertical-align:top;">
-      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:300px; border-radius:8px;">
-    </td>
-  </tr>
-</table>
+<ul>
+  <details>
+  <summary><strong><i>MORE ABOUT THIS PROJECT!</i></strong></summary>
+    <table style="width:100%; border:none; border-collapse:collapse;">
+      <tr>
+        <td style="vertical-align:middle;">
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+        </td>
+        <td style="text-align:center;">
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 2" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 3" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 4" style="width:290px;"><br>
+        </td>
+      </tr>
+    </table>
+  </details>
+</ul>
 
-[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
-
+[![Skills](https://img.shields.io/badge/GitHub-PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Skills](https://img.shields.io/badge/OSF-PROJECT_LINK_|_Click_Me!-82DFC6)](https://osf.io/hv5g8/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
 <br>
+
 
 ---
 
