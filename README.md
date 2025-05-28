@@ -29,7 +29,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
 ![Tool](https://img.shields.io/badge/3D_Printing-FEED95)
 ![Tool](https://img.shields.io/badge/GD&T-FEED95)
 
-Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> using ESP32 microcontrollers, achieving reliable self-navigation and obstacle avoidance through custom-designed mechanical, electrical, and embedded control systems, despite limited resources and team challenges
+Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> using ESP32 microcontrollers, achieving reliable self-navigation and obstacle avoidance through custom-designed mechanical, electrical, and embedded control systems, despite limited resources and team challenges.
 
 <ul>
   <details>
@@ -89,7 +89,7 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 <!-- ITX PC CASE -->
 <h3>
   <img src="https://github.com/user-attachments/assets/eda94c2a-d5bd-4a34-8661-9ba9af9366ef" width="20" style="vertical-align:middle; margin-right:8px;">
-  Custom ITX PC Case
+  Custom ITX PC <ins>Case<ins>
 </h3>
 
 ![Skills](https://img.shields.io/badge/Skills-Solid_Modeling-02699C)
@@ -104,6 +104,7 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 ![Tool](https://img.shields.io/badge/FDM_3D_Printer-FEED95)
 ![Tool](https://img.shields.io/badge/BambuStudio-FEED95)
 
+PROJECT DESCRIPTION HERE
 
 <ul>
   <details>
@@ -138,9 +139,8 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 <!-- LINUX EXPERIENCE -->
 <h3>
   <img src="https://github.com/user-attachments/assets/edc6147f-69c3-4395-a7a1-f5c29cd0613c" width="20" style="vertical-align:middle; margin-right:8px;">
-  Linux Experience
-</h3>
-<p>Exploration of custom workflows through Linux DE customization and scripting.</p>
+  <ins>Linux<ins> Experience
+  </h3>
 
 ![Distro](https://img.shields.io/badge/Distros-KDE_Neon-B6B6B6)
 ![Distro](https://img.shields.io/badge/Ubuntu-B6B6B6)
@@ -154,6 +154,8 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 ![Tool](https://img.shields.io/badge/Tools-Samba-FEED95)
 ![Tool](https://img.shields.io/badge/SSH-FEED95)
 ![Tool](https://img.shields.io/badge/RSYNC-FEED95)
+
+Exploration of custom workflows through Linux DE customization and scripting.
 
 <ul>
   <details>
@@ -202,9 +204,8 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 <!-- SIMULATION PROJECTS -->
 <h3>
   <img src="https://github.com/user-attachments/assets/9890478d-9641-469b-bb84-5c88dc1840b1" width="20" style="vertical-align:middle; margin-right:8px;">
-  Simulation & Analysis Projects
+  <ins>Simulation & Analysis<ins> Projects
 </h3>
-<p>Validation of mechanical designs through simulation and modeling.</p>
 
 ![Skills](https://img.shields.io/badge/Skills-Stress_&_Modal_Analysis-02699C)
 ![Skills](https://img.shields.io/badge/Dynamic_System_Modeling-02699C)
@@ -212,6 +213,8 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 ![Tool](https://img.shields.io/badge/Tools-SolidWorks_Simulation-FEED95)
 ![Tool](https://img.shields.io/badge/MATLAB-FEED95)
 ![Tool](https://img.shields.io/badge/Numerical_Methods-FEED95)
+
+Validation of mechanical designs through simulation and modeling.
 
 <ul>
   <details>
@@ -258,7 +261,7 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 
 
 <!-- JAVA WEBSCRAPING TOOL -->
-### 🌐 Java Web Scraper & Excel Automation  
+### 🌐 <ins>Java<ins> Web Scraper & Excel <ins>Automation<ins>  
 
 ![Skills](https://img.shields.io/badge/Skills-Web_Automation-02699C)
 ![Skills](https://img.shields.io/badge/Data_Parsing-02699C)
@@ -270,6 +273,8 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 ![Tool](https://img.shields.io/badge/IntelliJ-FEED95)
 ![Tool](https://img.shields.io/badge/Gradle-FEED95)
 ![Tool](https://img.shields.io/badge/Maven-FEED95)
+
+PROJECT DESCRIPTION HERE
 
 <ul>
   <details>
