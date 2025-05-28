@@ -4,8 +4,8 @@ Welcome to my Engineering Portfolio. 🙋🏽‍♂️
 
 This repository showcases a diverse range of engineering projects that integrate mechanical design, electronics, control systems, software development, simulation, and manufacturing. While my foundation lies in mechanical engineering, my work extends into system-level thinking, such as bridging hardware and software to develop complete, functional solutions.
 
-![Skills](https://img.shields.io/badge/SolidWorks-CSWA-EB225E) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="SW-CSWA" width="18"/> &nbsp;&nbsp;&nbsp;<!--![Skills](https://img.shields.io/badge/SolidWorks-CSWP-009973) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="SW-CSWP" width="18"/> &nbsp;&nbsp;&nbsp; -->
-![Skills](https://img.shields.io/badge/Python-PCEP-0066FF) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="Py-PCEP" width="18"/> &nbsp;&nbsp;&nbsp;
+![Skills](https://img.shields.io/badge/SolidWorks-CSWA-EB225E) <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/certified-orange-check.png" alt="SW-CSWA" width="18"/> &nbsp;&nbsp;&nbsp;<!--![Skills](https://img.shields.io/badge/SolidWorks-CSWP-009973) <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/certified-orange-check.png" alt="SW-CSWP" width="18"/> &nbsp;&nbsp;&nbsp; -->
+![Skills](https://img.shields.io/badge/Python-PCEP-0066FF) <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/certified-orange-check.png" alt="Py-PCEP" width="18"/> &nbsp;&nbsp;&nbsp;
 
 <hr style="height:1px; background-color:#e0e0e0; border:none; margin: 20px 0;">
 
