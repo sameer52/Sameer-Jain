@@ -311,12 +311,12 @@ PROJECT DESCRIPTION HERE
 
 ## 🧠 Core Technical Proficiencies
 
-- **CAD & Mechanical Design**: SolidWorks, FreeCAD, Siemens NX, GD&T, DFM, DFA, DFAM, DFMEA, 3D printing, CNC Machining, Laser Cutting  
+- **CAD & Mechanical Design**: SolidWorks, FreeCAD, Siemens NX, GD&T, DFM, DFA, DFAM, DFMEA, 3D Printing, Laser Cutting  
 - **Programming**: Python, Java, C++, MATLAB, Bash, HTML/CSS, IntelliJ, VS Code, Git, Gradle, Maven, Nano  
-- **Simulation**: FEM, CFD, thermal/vibration analysis, MATLAB modeling  
+- **Simulation**: FEM, CFD, Thermal & Vibration Analysis, MATLAB Modeling  
 - **Embedded Systems**: Arduino, ESP32, Raspberry Pi, Teensy, KiCad  
-- **Linux**: Linux customization, automation scripts, dual-boot setups, SSH, SAMBA, rsync  
-- **Soft Skills**: Documentation, team collaboration, project management
+- **Linux**: Linux Customization, Automation Scripts, Dual-Boot Setups, SSH, SAMBA, rsync  
+- **Soft Skills**: Documentation, Inter-disciplinary Collaboration, Project Management
 
 ---
 
