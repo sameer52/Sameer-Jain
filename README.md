@@ -104,7 +104,7 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 ![Tool](https://img.shields.io/badge/FDM_3D_Printer-FEED95)
 ![Tool](https://img.shields.io/badge/BambuStudio-FEED95)
 
-PROJECT DESCRIPTION HERE
+Designed and fabricated a custom ITX computer case from scratch, achieving efficient airflow, modular serviceability, and automatic thermal regulation through servo-actuated exhaust control, despite strict space constraints and complex component compatibility requirements. 
 
 <ul>
   <details>
