@@ -186,8 +186,6 @@ Comprehensive Linux experience spanning desktop and embedded systems, including 
         <td style="text-align:center;">
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 1" style="width:290px;"><br>
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 2" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 3" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 4" style="width:290px;"><br>
         </td>
       </tr>
     </table>
@@ -242,8 +240,6 @@ Validation of mechanical designs through simulation and modeling.
         <td style="text-align:center;">
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 1" style="width:290px;"><br>
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 2" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 3" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 4" style="width:290px;"><br>
         </td>
       </tr>
     </table>
@@ -299,8 +295,6 @@ PROJECT DESCRIPTION HERE
         <td style="text-align:center;">
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 1" style="width:290px;"><br>
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 2" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 3" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 4" style="width:290px;"><br>
         </td>
       </tr>
     </table>
@@ -317,13 +311,12 @@ PROJECT DESCRIPTION HERE
 
 ## 🧠 Core Technical Proficiencies
 
-- **CAD & Mechanical Design**: SolidWorks, FreeCAD, Siemens NX, GD&T, DfM, FDM printing, CNC, laser cutting  
-- **Programming**: Python, Java, C++, MATLAB, Bash, HTML/CSS  
-- **Simulation**: FEM, CFD, MATLAB modeling, thermal/vibration analysis  
-- **Embedded Systems**: Arduino, ESP32, Raspberry Pi, custom PCBs, power systems  
-- **Tools**: IntelliJ, VS Code, Git, Gradle, Nano, KiCad  
-- **OS Configuration**: Linux customization, automation scripts, dual-boot setups  
-- **Soft Skills**: Documentation, team collaboration, stakeholder engagement, project leadership
+- **CAD & Mechanical Design**: SolidWorks, FreeCAD, Siemens NX, GD&T, DFM, DFA, DFAM, DFMEA, 3D printing, CNC Machining, Laser Cutting  
+- **Programming**: Python, Java, C++, MATLAB, Bash, HTML/CSS, IntelliJ, VS Code, Git, Gradle, Maven, Nano  
+- **Simulation**: FEM, CFD, thermal/vibration analysis, MATLAB modeling  
+- **Embedded Systems**: Arduino, ESP32, Raspberry Pi, Teensy, KiCad  
+- **Linux**: Linux customization, automation scripts, dual-boot setups, SSH, SAMBA, rsync  
+- **Soft Skills**: Documentation, team collaboration, project management
 
 ---
 
