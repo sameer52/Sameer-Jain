@@ -82,8 +82,8 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 
 [![Skills](https://img.shields.io/badge/GitHub-PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52/Autonomous-Lawnmower) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Skills](https://img.shields.io/badge/OSF-PROJECT_LINK_|_Click_Me!-82DFC6)](https://osf.io/hv5g8/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
-
 <br>
+
 
 <!-- ITX PC CASE -->
 <h3>
@@ -130,44 +130,8 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 
 [![Skills](https://img.shields.io/badge/GitHub-PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Skills](https://img.shields.io/badge/OSF-PROJECT_LINK_|_Click_Me!-82DFC6)](https://osf.io/hv5g8/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
-
 <br>
 
-<!-- JAVA WEBSCRAPING TOOL -->
-### 🌐 Java Web Scraper & Excel Automation  
-
-![Skills](https://img.shields.io/badge/Skills-Web_Automation-02699C)
-![Skills](https://img.shields.io/badge/Data_Parsing-02699C)
-![Skills](https://img.shields.io/badge/Test_Driven_Development-02699C)  
-![Tool](https://img.shields.io/badge/Tools-Java-FEED95)
-![Tool](https://img.shields.io/badge/Selenium-FEED95)
-![Tool](https://img.shields.io/badge/Apache_POI_API-FEED95)
-![Tool](https://img.shields.io/badge/TestNG-FEED95)
-![Tool](https://img.shields.io/badge/IntelliJ-FEED95)
-![Tool](https://img.shields.io/badge/Gradle-FEED95)
-![Tool](https://img.shields.io/badge/Maven-FEED95)
-
-<table style="width:100%; border:none; border-collapse:collapse;">
-  <tr>
-    <td style="vertical-align:top;">
-      Automated scraping of serial data and structured Excel reporting.
-      <ul>
-        <li><strong>Objective</strong>: </li>
-        <li><strong>Subsystems</strong>: </li>
-        <li><strong>Software</strong>: </li>
-        <li><strong>Outcome</strong>: </li>
-        <li><strong>Key Features</strong>: </li>
-      </ul>
-    </td>
-    <td style="text-align:center; vertical-align:top;">
-      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:300px; border-radius:8px;">
-    </td>
-  </tr>
-</table>
-
-[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
-
-<br>
 
 <!-- LINUX EXPERIENCE -->
 <h3>
@@ -217,10 +181,10 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
             &nbsp;
         </td>
         <td style="text-align:center;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/placeholder-image" alt="Image 1" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/placeholder-image" alt="Image 1" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/placeholder-image" alt="Image 1" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/placeholder-image" alt="Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 2" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 3" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 4" style="width:290px;"><br>
         </td>
       </tr>
     </table>
@@ -229,14 +193,9 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 
 [![Skills](https://img.shields.io/badge/GitHub-PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Skills](https://img.shields.io/badge/OSF-PROJECT_LINK_|_Click_Me!-82DFC6)](https://osf.io/hv5g8/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
-
 <br>
 
-[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
-
-<br>
-
-
+<!-- SIMULATION PROJECTS -->
 <h3>
   <img src="https://github.com/user-attachments/assets/9890478d-9641-469b-bb84-5c88dc1840b1" width="20" style="vertical-align:middle; margin-right:8px;">
   Simulation & Analysis Projects
@@ -268,6 +227,44 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 </table>
 
 [![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
+<br>
+
+
+<!-- JAVA WEBSCRAPING TOOL -->
+### 🌐 Java Web Scraper & Excel Automation  
+
+![Skills](https://img.shields.io/badge/Skills-Web_Automation-02699C)
+![Skills](https://img.shields.io/badge/Data_Parsing-02699C)
+![Skills](https://img.shields.io/badge/Test_Driven_Development-02699C)  
+![Tool](https://img.shields.io/badge/Tools-Java-FEED95)
+![Tool](https://img.shields.io/badge/Selenium-FEED95)
+![Tool](https://img.shields.io/badge/Apache_POI_API-FEED95)
+![Tool](https://img.shields.io/badge/TestNG-FEED95)
+![Tool](https://img.shields.io/badge/IntelliJ-FEED95)
+![Tool](https://img.shields.io/badge/Gradle-FEED95)
+![Tool](https://img.shields.io/badge/Maven-FEED95)
+
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="vertical-align:top;">
+      Automated scraping of serial data and structured Excel reporting.
+      <ul>
+        <li><strong>Objective</strong>: </li>
+        <li><strong>Subsystems</strong>: </li>
+        <li><strong>Software</strong>: </li>
+        <li><strong>Outcome</strong>: </li>
+        <li><strong>Key Features</strong>: </li>
+      </ul>
+    </td>
+    <td style="text-align:center; vertical-align:top;">
+      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:300px; border-radius:8px;">
+    </td>
+  </tr>
+</table>
+
+[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
+
+<br>
 
 ---
 
