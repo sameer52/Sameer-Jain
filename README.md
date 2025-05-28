@@ -75,7 +75,8 @@ Built a ESP32-based, autonomous lawnmower from the ground up.
     </table>
 </details>
 
-[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52/Autonomous-Lawnmower) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
+[![Skills](https://img.shields.io/badge/GitHub-PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52/Autonomous-Lawnmower) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
+[![Skills](https://img.shields.io/badge/OSF-PROJECT_LINK_|_Click_Me!-82DFC6)](https://osf.io/hv5g8/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
 
 </ul>
 
