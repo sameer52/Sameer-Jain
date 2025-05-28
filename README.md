@@ -18,11 +18,13 @@ Each folder in this repository is a self-contained project demonstrating specifi
 <!-- LAWNMOWER CAPSTONE -->
 ### 🤖 Autonomous <ins>Robot</ins> Lawnmower (CAPSTONE)
 
-![Skills](https://img.shields.io/badge/Skills-Design_for_Manufacturing-02699C)
-![Skills](https://img.shields.io/badge/Design_for_Assembly-02699C)
+![Skills](https://img.shields.io/badge/Skills-Solid_Modeling-02699C)
+![Skills](https://img.shields.io/badge/CAD_Assembly-02699C)
 ![Skills](https://img.shields.io/badge/Embedded_Control_Logic-02699C)
-![Skills](https://img.shields.io/badge/Power_Integration-02699C)
-![Skills](https://img.shields.io/badge/Sensor_Fusion-02699C)  
+![Skills](https://img.shields.io/badge/Sensor_Fusion-02699C)
+![Skills](https://img.shields.io/badge/GD﹠T-02699C)
+![Skills](https://img.shields.io/badge/DFM-02699C)
+![Skills](https://img.shields.io/badge/DFA-02699C)  
 ![Tool](https://img.shields.io/badge/Tools-Arduino-FEED95)
 ![Tool](https://img.shields.io/badge/ESP32-FEED95)
 ![Tool](https://img.shields.io/badge/Solidworks-FEED95)
