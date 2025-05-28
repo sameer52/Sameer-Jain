@@ -11,7 +11,7 @@ This repository showcases a diverse range of engineering projects that integrate
 
 # 📂 Projects & Technical Skills
 
-Each folder in this repository is a self-contained project demonstrating specific skills and tools. This layout presents both context and capability in a condensed, reader-friendly format.
+Each folder in this repository is a self-contained project demonstrating specific skills and tools. <!-- This layout presents both context and capability in a condensed, reader-friendly format. -->
 
 <br>
 
@@ -31,7 +31,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
 Built a ESP32-based, autonomous lawnmower from the ground up.
 
 <ul>
-<details>
+  <details>
   <summary><strong><i>MORE ABOUT THIS PROJECT!</i></strong></summary>
     <table style="width:100%; border:none; border-collapse:collapse;">
       <tr>
@@ -73,12 +73,11 @@ Built a ESP32-based, autonomous lawnmower from the ground up.
         </td>
       </tr>
     </table>
-</details>
-
-[![Skills](https://img.shields.io/badge/GitHub-PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52/Autonomous-Lawnmower) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
-[![Skills](https://img.shields.io/badge/OSF-PROJECT_LINK_|_Click_Me!-82DFC6)](https://osf.io/hv5g8/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
-
+  </details>
 </ul>
+
+[![Skills](https://img.shields.io/badge/GitHub-PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52/Autonomous-Lawnmower) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Skills](https://img.shields.io/badge/OSF-PROJECT_LINK_|_Click_Me!-82DFC6)](https://osf.io/hv5g8/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
 
 <br>
 
