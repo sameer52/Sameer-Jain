@@ -68,10 +68,10 @@ Built a ESP32-based, autonomous lawnmower from the ground up.
         </td>
         <td style="text-align:center;">
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/capstone-lawnmower/assembled-new-shell.JPG" alt="Lawnmower Image 1" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/capstone-lawnmower/battery-access-hatch.JPG" alt="Lawnmower Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/capstone-lawnmower/battery-access-hatch-cropped.JPG" alt="Lawnmower Image 1" style="width:290px;"><br>
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/capstone-lawnmower/battery-clamp.JPG" alt="Lawnmower Image 1" style="width:290px;"><br>
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/capstone-lawnmower/drive-assembly-rear-white.JPG" alt="Lawnmower Image 1" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/capstone-lawnmower/motor-exploded-view.JPG" alt="Lawnmower Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/capstone-lawnmower/motor-exploded-view-cropped.JPG" alt="Lawnmower Image 1" style="width:290px;"><br>
           <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image 1" style="width:290px;"><br>
         </td>
       </tr>
