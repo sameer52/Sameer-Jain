@@ -28,7 +28,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
 ![Tool](https://img.shields.io/badge/3D_Printing-FEED95)
 ![Tool](https://img.shields.io/badge/GD&T-FEED95)
 
-Built a ESP32-based, autonomous lawnmower from the ground up.
+Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> using ESP32 microcontrollers, achieving reliable self-navigation and obstacle avoidance through custom-designed mechanical, electrical, and embedded control systems, despite limited resources and team challenges
 
 <ul>
   <details>
