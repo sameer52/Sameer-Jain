@@ -107,7 +107,7 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 
 <ul>
   <details>
-  <summary><strong><i>TITLE HERE</i></strong></summary>
+  <summary><strong><i>MORE ABOUT THIS PROJECT!</i></strong></summary>
     <table style="width:100%; border:none; border-collapse:collapse;">
       <tr>
         <td style="text-align:left; vertical-align:top;">
