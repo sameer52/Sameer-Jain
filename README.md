@@ -15,6 +15,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
 
 <br>
 
+<!-- LAWNMOWER CAPSTONE -->
 ### 🤖 Autonomous <ins>Robot</ins> Lawnmower (CAPSTONE)
 
 ![Skills](https://img.shields.io/badge/Skills-Design_for_Manufacturing-02699C)
@@ -84,7 +85,7 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 
 <br>
 
-
+<!-- ITX PC CASE -->
 <h3>
   <img src="https://github.com/user-attachments/assets/eda94c2a-d5bd-4a34-8661-9ba9af9366ef" width="20" style="vertical-align:middle; margin-right:8px;">
   Custom ITX PC Case
@@ -132,7 +133,7 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 
 <br>
 
-
+<!-- JAVA WEBSCRAPING TOOL -->
 ### 🌐 Java Web Scraper & Excel Automation  
 
 ![Skills](https://img.shields.io/badge/Skills-Web_Automation-02699C)
@@ -168,10 +169,10 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 
 <br>
 
-
+<!-- LINUX EXPERIENCE -->
 <h3>
   <img src="https://github.com/user-attachments/assets/edc6147f-69c3-4395-a7a1-f5c29cd0613c" width="20" style="vertical-align:middle; margin-right:8px;">
-  Linux Desktop Environment Experiments
+  Linux Experience
 </h3>
 <p>Exploration of custom workflows through Linux DE customization and scripting.</p>
 
@@ -180,8 +181,7 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 ![Distro](https://img.shields.io/badge/Kubuntu-B6B6B6)
 ![Distro](https://img.shields.io/badge/OrangePi_OS-B6B6B6)
 ![Distro](https://img.shields.io/badge/Manjaro-B6B6B6)
-![Distro](https://img.shields.io/badge/Pop!_OS-B6B6B6)
-![Distro](https://img.shields.io/badge/SolosOS-B6B6B6)  
+![Distro](https://img.shields.io/badge/Pop!_OS-B6B6B6)  
 ![Skills](https://img.shields.io/badge/Skills-Shell_Scripting-02699C)
 ![Skills](https://img.shields.io/badge/Networking-02699C)
 ![Skills](https://img.shields.io/badge/Permission_Mgmt-02699C)  
@@ -189,22 +189,48 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 ![Tool](https://img.shields.io/badge/SSH-FEED95)
 ![Tool](https://img.shields.io/badge/RSYNC-FEED95)
 
-<table style="width:100%; border:none; border-collapse:collapse;">
-  <tr>
-    <td style="vertical-align:top;">
-      <ul>
-        <li><strong>Objective</strong>: </li>
-        <li><strong>Subsystems</strong>: </li>
-        <li><strong>Software</strong>: </li>
-        <li><strong>Outcome</strong>: </li>
-        <li><strong>Key Features</strong>: </li>
-      </ul>
-    </td>
-    <td style="text-align:center; vertical-align:top;">
-      <img src="https://www.svgrepo.com/show/508699/landscape-placeholder.svg" alt="Project Image" style="width:300px; border-radius:8px;">
-    </td>
-  </tr>
-</table>
+<ul>
+  <details>
+  <summary><strong><i>MORE ABOUT THIS PROJECT!</i></strong></summary>
+    <table style="width:100%; border:none; border-collapse:collapse;">
+      <tr>
+        <td style="vertical-align:middle;">
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+            <!-- * -->
+            <li></li>
+            &nbsp;
+        </td>
+        <td style="text-align:center;">
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/placeholder-image" alt="Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/placeholder-image" alt="Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/placeholder-image" alt="Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/placeholder-image" alt="Image 1" style="width:290px;"><br>
+        </td>
+      </tr>
+    </table>
+  </details>
+</ul>
+
+[![Skills](https://img.shields.io/badge/GitHub-PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Skills](https://img.shields.io/badge/OSF-PROJECT_LINK_|_Click_Me!-82DFC6)](https://osf.io/hv5g8/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
+
+<br>
 
 [![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
 
