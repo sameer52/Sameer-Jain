@@ -206,7 +206,7 @@ Comprehensive Linux experience spanning desktop and embedded systems, including 
 <!-- SIMULATION PROJECTS -->
 <h3>
   <img src="https://github.com/user-attachments/assets/9890478d-9641-469b-bb84-5c88dc1840b1" width="20" style="vertical-align:middle; margin-right:8px;">
-  <ins>Simulation & Analysis<ins> Projects
+  <ins>Simulation & Analysis</ins> Projects
 </h3>
 
 ![Skills](https://img.shields.io/badge/Skills-Stress_&_Modal_Analysis-02699C)
@@ -263,7 +263,7 @@ Validation of mechanical designs through simulation and modeling.
 
 
 <!-- JAVA WEBSCRAPING TOOL -->
-### 🌐 <ins>Java<ins> Web Scraper & Excel <ins>Automation<ins>  
+### 🌐 <ins>Java</ins> Web Scraper & Excel <ins>Automation</ins>  
 
 ![Skills](https://img.shields.io/badge/Skills-Web_Automation-02699C)
 ![Skills](https://img.shields.io/badge/Data_Parsing-02699C)
