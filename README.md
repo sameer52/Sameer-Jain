@@ -12,6 +12,7 @@ This repository showcases a diverse range of engineering projects that integrate
 # 📂 Projects & Technical Skills
 
 Each folder in this repository is a self-contained project demonstrating specific skills and tools. <!-- This layout presents both context and capability in a condensed, reader-friendly format. -->
+
 <br>
 
 <!-- LAWNMOWER CAPSTONE -->
