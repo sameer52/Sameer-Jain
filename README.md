@@ -42,11 +42,13 @@ Built a ESP32-based, autonomous lawnmower from the ground up.
             <li>Created an original PLA chassis in SolidWorks, validated structural integrity with anisotropic FEM simulations to ensure durability during operation</li>
             &nbsp;
             <!-- * -->
-            <li>Applied DFM principles to accelerate iteration cycles within project timeline despite limited team resources.</li>
-            <!-- * -->
             <li>Applied DFA principles to simplify assembly, reducing build time and minimizing errors during prototyping and testing.</li>
+            &nbsp;
             <!-- * -->
             <li>Minimized part count, improving system reliability and simplifying maintenance across iterations.</li>
+            &nbsp;
+            <!-- * -->
+            <li>Applied DFM principles to accelerate iteration cycles within project timeline despite limited team resources.</li>
             &nbsp;
             <!-- * -->
             <li>Each of the 11 iterations targeted key areas including but not limited to</li>
@@ -65,9 +67,10 @@ Built a ESP32-based, autonomous lawnmower from the ground up.
             &nbsp;
         </td>
         <td style="text-align:center;">
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image 1" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image 1" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/capstone-lawnmower/assembled-new-shell.JPG" alt="Lawnmower Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/capstone-lawnmower/battery-access-hatch.JPG" alt="Lawnmower Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/capstone-lawnmower/battery-clamp.JPG" alt="Lawnmower Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/capstone-lawnmower/drive-assembly-rear-white.JPG" alt="Lawnmower Image 1" style="width:290px;"><br>
           <img src="https://github.com/sameer52/Autonomous-Lawnmower/blob/main/images/capstone-lawnmower-cropped.jpg" alt="Lawnmower Image 1" style="width:290px;"><br>
         </td>
       </tr>
