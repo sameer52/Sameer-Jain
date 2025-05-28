@@ -99,26 +99,33 @@ Built a ESP32-based, autonomous lawnmower from the ground up.
 ![Tool](https://img.shields.io/badge/FDM_3D_Printer-FEED95)
 ![Tool](https://img.shields.io/badge/BambuStudio-FEED95)
 
-<table style="width:100%; border:none; border-collapse:collapse;">
-  <tr>
-    <td style="text-align:left; vertical-align:top;">
-      Parametric small form factor case designed for modularity and portability.
-      <ul>
-        <li>Led complete design and prototyping of a custom 18L Mini-ITX PC case, including user research, CAD, simulation, and physical testing</li>
-        <li>Ran FEM and CFD simulations to reduce thermal hotspots by 20% and ensure mechanical integrity</li>
-        <li>Designed for manufacturing with PLA 3D printing and laser cutting (wood, acrylic, aluminum)</li>
-        <li>Completed 13 iterative revisions driven by airflow, thermal, and assembly optimizations</li>
-        <li>Applied DFA principles to minimize assembly time and improve internal accessibility</li>
-        <li>Added usability features: cable/airflow channels, magnetic panels, drive mounts, and active airflow control</li>
-      </ul>
-    </td>
-    <td style="text-align:center; vertical-align:center;">
-      <img src="https://github.com/sameer52/ITX-Case/blob/main/images/ITX-Case-V3-WIP-portrait.png" alt="Project Image" style="width:300px; border-radius:8px;">
-    </td>
-  </tr>
-</table>
 
-[![Skills](https://img.shields.io/badge/PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52?tab=repositories) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> 
+<ul>
+  <details>
+  <summary><strong><i>TITLE HERE</i></strong></summary>
+    <table style="width:100%; border:none; border-collapse:collapse;">
+      <tr>
+        <td style="text-align:left; vertical-align:top;">
+          Parametric small form factor case designed for modularity and portability.
+          <ul>
+            <li>Led complete design and prototyping of a custom 18L Mini-ITX PC case, including user research, CAD, simulation, and physical testing</li>
+            <li>Ran FEM and CFD simulations to reduce thermal hotspots by 20% and ensure mechanical integrity</li>
+            <li>Designed for manufacturing with PLA 3D printing and laser cutting (wood, acrylic, aluminum)</li>
+            <li>Completed 13 iterative revisions driven by airflow, thermal, and assembly optimizations</li>
+            <li>Applied DFA principles to minimize assembly time and improve internal accessibility</li>
+            <li>Added usability features: cable/airflow channels, magnetic panels, drive mounts, and active airflow control</li>
+          </ul>
+        </td>
+        <td style="text-align:center; vertical-align:center;">
+          <img src="https://github.com/sameer52/ITX-Case/blob/main/images/ITX-Case-V3-WIP-portrait.png" alt="Project Image" style="width:300px; border-radius:8px;">
+        </td>
+      </tr>
+    </table>
+  </details>
+</ul>
+
+[![Skills](https://img.shields.io/badge/GitHub-PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Skills](https://img.shields.io/badge/OSF-PROJECT_LINK_|_Click_Me!-82DFC6)](https://osf.io/hv5g8/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
 
 <br>
 
