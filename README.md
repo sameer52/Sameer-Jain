@@ -42,12 +42,11 @@ Built a ESP32-based, autonomous lawnmower from the ground up.
             <li>Created an original PLA chassis in SolidWorks, validated structural integrity with anisotropic FEM simulations to ensure durability during operation</li>
             &nbsp;
             <!-- * -->
-            <li>Applied DFM/DFA principles to</li>
-              <ul>
-                <li>reduce part count, ... (benefit of reduced parts)</li>
-                <li>simplify assembly, ... (benefits to project?)</li>
-                <li>accelerate iteration cycles within project timeline despite limited team resources</li>
-              </ul>
+            <li>Applied DFM principles to accelerate iteration cycles within project timeline despite limited team resources.</li>
+            <!-- * -->
+            <li>Applied DFA principles to simplify assembly, reducing build time and minimizing errors during prototyping and testing.</li>
+            <!-- * -->
+            <li>Minimized part count, improving system reliability and simplifying maintenance across iterations.</li>
             &nbsp;
             <!-- * -->
             <li>Each of the 11 iterations targeted key areas including but not limited to</li>
