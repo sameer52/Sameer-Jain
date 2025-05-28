@@ -155,7 +155,7 @@ Designed and fabricated a custom ITX computer case from scratch, achieving effic
 ![Tool](https://img.shields.io/badge/SSH-FEED95)
 ![Tool](https://img.shields.io/badge/RSYNC-FEED95)
 
-Exploration of custom workflows through Linux DE customization and scripting.
+Comprehensive Linux experience spanning desktop and embedded systems, including Raspberry Pi-based IoT projects, DE customization, NAS setup, web server deployment, dual-boot configuration, and low-level system management through scripting, drivers, and user/group permissions. 
 
 <ul>
   <details>
