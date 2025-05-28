@@ -6,7 +6,6 @@ This repository showcases a diverse range of engineering projects that integrate
 
 ![Skills](https://img.shields.io/badge/SolidWorks-CSWA-EB225E) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="SW-CSWA" width="18"/> &nbsp;&nbsp;&nbsp;<!--![Skills](https://img.shields.io/badge/SolidWorks-CSWP-009973) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="SW-CSWP" width="18"/> &nbsp;&nbsp;&nbsp; -->
 ![Skills](https://img.shields.io/badge/Python-PCEP-0066FF) <img src="https://cdn3.emoji.gg/emojis/8199_certified_orange.png" alt="Py-PCEP" width="18"/> &nbsp;&nbsp;&nbsp;
-
 <hr style="height:1px; background-color:#e0e0e0; border:none; margin: 20px 0;">
 
 # 📂 Projects & Technical Skills
