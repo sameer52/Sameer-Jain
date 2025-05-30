@@ -9,7 +9,7 @@ This repository showcases a diverse range of engineering projects that integrate
 
 <hr style="height:1px; background-color:#e0e0e0; border:none; margin: 20px 0;">
 
-# 📂 Projects & Technical Skills
+## 📂 Projects & Technical Skills
 
 Each folder in this repository is a self-contained project demonstrating specific skills and tools. <!-- This layout presents both context and capability in a condensed, reader-friendly format. -->
 
@@ -91,7 +91,7 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 <!-- ITX PC CASE -->
 <h3>
   <img src="https://github.com/user-attachments/assets/eda94c2a-d5bd-4a34-8661-9ba9af9366ef" width="20" style="vertical-align:middle; margin-right:8px;">
-  Custom ITX PC <ins>Case<ins>
+  <ins>Laser</ins> Cut Computer <ins>Case<ins>
 </h3>
 
 ![Skills](https://img.shields.io/badge/Skills-Solid_Modeling-02699C)
