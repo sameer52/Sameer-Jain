@@ -208,7 +208,7 @@ Comprehensive Linux experience spanning desktop and embedded systems, including 
 ![Tool](https://img.shields.io/badge/MATLAB-FEED95)
 ![Tool](https://img.shields.io/badge/Numerical_Methods-FEED95)
 
-Validation of mechanical designs through simulation and modeling.
+Performed FEM and CFD simulations to evaluate structural, thermal, and fluid performance across various mechanical design projects, guiding design decisions and ensuring functional reliability
 
 <ul>
   <details>
