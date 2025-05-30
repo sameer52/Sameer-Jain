@@ -198,7 +198,7 @@ Comprehensive Linux experience spanning desktop and embedded systems, including 
 <!-- SIMULATION PROJECTS -->
 <h3>
   <img src="https://github.com/user-attachments/assets/9890478d-9641-469b-bb84-5c88dc1840b1" width="20" style="vertical-align:middle; margin-right:8px;">
-  <ins>Simulation & Analysis</ins> Projects
+  <ins>Fluid & Stress</ins> Analysis Projects
 </h3>
 
 ![Skills](https://img.shields.io/badge/Skills-Stress_&_Modal_Analysis-02699C)
