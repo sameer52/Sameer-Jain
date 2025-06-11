@@ -91,7 +91,7 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
 <!-- ITX PC CASE -->
 <h3>
   <img src="https://github.com/user-attachments/assets/eda94c2a-d5bd-4a34-8661-9ba9af9366ef" width="20" style="vertical-align:middle; margin-right:8px;">
-  <ins>Laser</ins> Cut Computer <ins>Case<ins>
+  <ins>Laser Cut</ins> Computer <ins>Case<ins>
 </h3>
 
 ![Skills](https://img.shields.io/badge/Skills-Solid_Modeling-02699C)
