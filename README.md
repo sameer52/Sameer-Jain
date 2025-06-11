@@ -16,7 +16,7 @@ Each folder in this repository is a self-contained project demonstrating specifi
 <br>
 
 <!-- LAWNMOWER CAPSTONE -->
-### 🤖 Autonomous <ins>Robot</ins> Lawnmower (CAPSTONE)
+### 🤖 Autonomous Lawncare <ins>Robot</ins> (CAPSTONE)
 
 ![Skills](https://img.shields.io/badge/Skills-Solid_Modeling-02699C)
 ![Skills](https://img.shields.io/badge/CAD_Assembly-02699C)
