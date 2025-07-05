@@ -241,8 +241,7 @@ Performed FEM and CFD simulations to evaluate structural, thermal, and fluid per
             &nbsp;
         </td>
         <td style="text-align:center;">
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 1" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 2" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/analysis-projects/tauno-cover-analysis-results.png" alt="Image 1" style="width:290px;"><br>
         </td>
       </tr>
     </table>
