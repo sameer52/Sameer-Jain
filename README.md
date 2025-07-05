@@ -149,7 +149,7 @@ Designed and fabricated a custom ITX computer case from scratch, achieving effic
 ![Distro](https://img.shields.io/badge/OrangePi_OS-B6B6B6)
 ![Distro](https://img.shields.io/badge/Manjaro-B6B6B6)
 ![Distro](https://img.shields.io/badge/Pop!_OS-B6B6B6)
-![Distro](https://img.shields.io/badge/GalliumOS-B6B6B6)
+![Distro](https://img.shields.io/badge/GalliumOS-B6B6B6)  
 ![Skills](https://img.shields.io/badge/Skills-Shell_Scripting-02699C)
 ![Skills](https://img.shields.io/badge/Networking-02699C)
 ![Skills](https://img.shields.io/badge/Permission_Mgmt-02699C)  
