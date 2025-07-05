@@ -148,13 +148,15 @@ Designed and fabricated a custom ITX computer case from scratch, achieving effic
 ![Distro](https://img.shields.io/badge/Kubuntu-B6B6B6)
 ![Distro](https://img.shields.io/badge/OrangePi_OS-B6B6B6)
 ![Distro](https://img.shields.io/badge/Manjaro-B6B6B6)
-![Distro](https://img.shields.io/badge/Pop!_OS-B6B6B6)  
+![Distro](https://img.shields.io/badge/Pop!_OS-B6B6B6)
+![Distro](https://img.shields.io/badge/GalliumOS-B6B6B6)
 ![Skills](https://img.shields.io/badge/Skills-Shell_Scripting-02699C)
 ![Skills](https://img.shields.io/badge/Networking-02699C)
 ![Skills](https://img.shields.io/badge/Permission_Mgmt-02699C)  
 ![Tool](https://img.shields.io/badge/Tools-Samba-FEED95)
 ![Tool](https://img.shields.io/badge/SSH-FEED95)
 ![Tool](https://img.shields.io/badge/RSYNC-FEED95)
+![Tool](https://img.shields.io/badge/RCLONE-FEED95)
 
 Comprehensive Linux experience spanning desktop and embedded systems, including Raspberry Pi-based IoT projects, DE customization, NAS setup, web server deployment, dual-boot configuration, and low-level system management through scripting, drivers, and user/group permissions. 
 
