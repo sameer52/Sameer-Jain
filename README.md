@@ -186,8 +186,7 @@ Comprehensive Linux experience spanning desktop and embedded systems, including 
             &nbsp;
         </td>
         <td style="text-align:center;">
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 1" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/other/landscape-placeholder.svg" alt="Image 2" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/linux-projects/Kubuntu_24.10_desktop_screenshot.png" alt="Image 1" style="width:290px;"><br>
         </td>
       </tr>
     </table>
