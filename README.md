@@ -183,14 +183,9 @@ Comprehensive Linux experience spanning desktop and embedded systems, including 
             <li>Configured ROS (Noetic) workspaces on Ubuntu-based systems, using catkin build tools, roslaunch files, and custom message/service definitions for robot simulation and control.</li>
             &nbsp;
             <!-- * -->
-            <li></li>
-            &nbsp;
-            <!-- * -->
             <li>Daily-drive KDE Neon 6 with KDE Plasma Desktop, customizing the UI, shell environment, and window manager to streamline productivity and engineering workflows.</li>
             &nbsp;
             <!-- * -->
-            <li></li>
-            &nbsp;
         </td>
         <td style="text-align:center;">
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/linux-projects/Kubuntu_24.10_desktop_screenshot.png" alt="Image 1" style="width:290px;"><br>
