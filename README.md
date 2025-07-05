@@ -160,26 +160,33 @@ Comprehensive Linux experience spanning desktop and embedded systems, including 
 
 <ul>
   <details>
-  <summary><strong><i>MORE ABOUT THIS PROJECT!</i></strong></summary>
+  <summary><strong><i>MORE ABOUT THIS EXPERIENCE!</i></strong></summary>
     <table style="width:100%; border:none; border-collapse:collapse;">
       <tr>
         <td style="vertical-align:middle;">
             <!-- * -->
-            <li></li>
+            <li>Daily-drive KDE Neon 6 with KDE Plasma Desktop, customizing the UI, shell environment, and window manager to streamline productivity and engineering workflows.</li>
             &nbsp;
-            <li></li>
+            <!-- * -->
+            <li>Managed Linux bootloader and GRUB entries to support dual-boot configurations and fine-tuned system startup parameters.</li>
+            &nbsp;
+            <!-- * -->
+            <li>Built a headless Raspberry Pi NAS running Ubuntu Server 22.04 LTS, configured with Samba for network file sharing, SSH for remote access, and rsync for automated backups across devices.</li>
+            &nbsp;
+            <!-- * -->
+            <li>Created custom Bash scripts for system maintenance, automated package updates, and deployment tasks on multiple machines.</li>
+            &nbsp;
+            <!-- * -->
+            <li>Implemented automated system services with systemd and cron, allowing for scheduled backups, service restarts, and log rotation on Linux servers.</li>
+            &nbsp;
+            <!-- * -->
+            <li>Configured ROS (Noetic) workspaces on Ubuntu-based systems, using catkin build tools, roslaunch files, and custom message/service definitions for robot simulation and control.</li>
             &nbsp;
             <!-- * -->
             <li></li>
             &nbsp;
             <!-- * -->
-            <li></li>
-            &nbsp;
-            <!-- * -->
-            <li></li>
-            &nbsp;
-            <!-- * -->
-            <li></li>
+            <li>Daily-drive KDE Neon 6 with KDE Plasma Desktop, customizing the UI, shell environment, and window manager to streamline productivity and engineering workflows.</li>
             &nbsp;
             <!-- * -->
             <li></li>
