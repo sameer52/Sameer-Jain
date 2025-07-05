@@ -141,7 +141,7 @@ Designed and fabricated a custom ITX computer case from scratch, achieving effic
 <h3>
   <img src="https://github.com/user-attachments/assets/edc6147f-69c3-4395-a7a1-f5c29cd0613c" width="20" style="vertical-align:middle; margin-right:8px;">
   <ins>Linux</ins> Experience
-  </h3>
+</h3>
 
 ![Distro](https://img.shields.io/badge/Distros-KDE_Neon-B6B6B6)
 ![Distro](https://img.shields.io/badge/Ubuntu-B6B6B6)
