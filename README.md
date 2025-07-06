@@ -119,7 +119,7 @@ Designed and fabricated a custom ITX computer case from scratch, achieving effic
         </td>
         <td style="text-align:center; vertical-align:center;">
           <!-- <img src="https://github.com/sameer52/ITX-Case/blob/main/images/ITX-Case-V3-WIP-portrait.png" alt="Project Image" style="width:300px; border-radius:8px;"> -->
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/itx-case/itxcase-front-top-iso-inside-both.jpg" alt="Project Image" style="width:200px; border-radius:8px;">
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/itx-case/itxcase-front-top-iso-inside-both.jpg" alt="Project Image" style="width:300px; border-radius:8px;">
         </td>
       </tr>
     </table>
