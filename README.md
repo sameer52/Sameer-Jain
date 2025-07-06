@@ -39,35 +39,26 @@ Engineered a <strong>fully autonomous electric lawnmower from scratch</strong> u
     <table style="width:100%; border:none; border-collapse:collapse;">
       <tr>
         <td style="vertical-align:middle;">
-            <!-- * -->
             <li>Spearheaded mechanical development from initial requirements to final prototype, emphasizing modularity for <strong>maintenance</strong> and <strong>continuous</strong> improvement</li>
             &nbsp;
             <li>Created an original PLA chassis in SolidWorks, validated structural integrity with anisotropic FEM simulations to ensure durability during operation</li>
             &nbsp;
-            <!-- * -->
             <li>Applied DFA principles to simplify assembly, reducing build time and minimizing errors during prototyping and testing.</li>
             &nbsp;
-            <!-- * -->
             <li>Minimized part count, improving system reliability and simplifying maintenance across iterations.</li>
             &nbsp;
-            <!-- * -->
             <li>Applied DFM principles to accelerate iteration cycles within project timeline despite limited team resources.</li>
             &nbsp;
-            <!-- * -->
             <li>Each of the 11 iterations targeted key areas including but not limited to</li>
             <ul>
               <li>drive system, chassis stiffness, internal component layout, and cutting mechanism integration</li>
             </ul>
             &nbsp;
-            <!-- * -->
             <li>Implemented an induced boundary wire system enabling safe autonomous operation within user-defined zones</li>
             &nbsp;
-            <!-- * -->
             <li>Programmed embedded navigation and obstacle avoidance logic using Arduino IDE with responsive sensor fusion and feedback control.</li>
             &nbsp;
-            <!-- * -->
             <li>Tuned hardware/software integration through repeated field tests, improving stability, accuracy, and response time over time.</li>
-            &nbsp;
         </td>
         <td style="text-align:center;">
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/capstone-lawnmower/assembled-new-shell.JPG" alt="Lawnmower Image 1" style="width:290px;"><br>
@@ -115,10 +106,15 @@ Designed and fabricated a custom ITX computer case from scratch, achieving effic
       <tr>
         <td style="text-align:left; vertical-align:top;">
           <li>Led complete design and prototyping of a custom 18L Mini-ITX PC case, including user research, CAD, simulation, and physical testing</li>
+          &nbsp;
           <li>Ran FEM and CFD simulations to reduce thermal hotspots by 20% and ensure mechanical integrity</li>
+          &nbsp;
           <li>Designed for manufacturing with PLA 3D printing and laser cutting (wood, acrylic, aluminum)</li>
+          &nbsp;
           <li>Completed 13 iterative revisions driven by airflow, thermal, and assembly optimizations</li>
+          &nbsp;
           <li>Applied DFA principles to minimize assembly time and improve internal accessibility</li>
+          &nbsp;
           <li>Added usability features: cable/airflow channels, magnetic panels, drive mounts, and active airflow control</li>
         </td>
         <td style="text-align:center; vertical-align:center;">
@@ -166,25 +162,17 @@ Comprehensive Linux experience spanning desktop and embedded systems, including 
     <table style="width:100%; border:none; border-collapse:collapse;">
       <tr>
         <td style="vertical-align:middle;">
-            <!-- * -->
             <li>Daily-drive KDE Neon 6 with KDE Plasma Desktop, customizing the UI, shell environment, and window manager to streamline productivity and engineering workflows.</li>
             &nbsp;
-            <!-- * -->
             <li>Managed Linux bootloader and GRUB entries to support dual-boot configurations and fine-tuned system startup parameters.</li>
             &nbsp;
-            <!-- * -->
             <li>Built a headless Raspberry Pi NAS running Ubuntu Server 22.04 LTS, configured with Samba for network file sharing, SSH for remote access, and rsync for automated backups across devices.</li>
             &nbsp;
-            <!-- * -->
             <li>Created custom Bash scripts for system maintenance, automated package updates, and deployment tasks on multiple machines.</li>
             &nbsp;
-            <!-- * -->
             <li>Implemented automated system services with systemd and cron, allowing for scheduled backups, service restarts, and log rotation on Linux servers.</li>
             &nbsp;
-            <!-- * -->
             <li>Configured ROS (Noetic) workspaces on Ubuntu-based systems, using catkin build tools, roslaunch files, and custom message/service definitions for robot simulation and control.</li>
-            &nbsp;
-            <!-- * -->
         </td>
         <td style="text-align:center;">
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/linux-projects/Kubuntu_24.10_desktop_screenshot.png" alt="KDE-DE" style="width:290px;"><br>
@@ -220,26 +208,19 @@ Performed FEM and CFD simulations to evaluate structural, thermal, and fluid per
     <table style="width:100%; border:none; border-collapse:collapse;">
       <tr>
         <td style="vertical-align:middle;">
-            <!-- * -->
             <li></li>
             &nbsp;
             <li></li>
             &nbsp;
-            <!-- * -->
             <li></li>
             &nbsp;
-            <!-- * -->
             <li></li>
             &nbsp;
-            <!-- * -->
             <li></li>
             &nbsp;
-            <!-- * -->
             <li></li>
             &nbsp;
-            <!-- * -->
             <li></li>
-            &nbsp;
         </td>
         <td style="text-align:center;">
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/analysis-projects/tauno-cover-analysis-results.png" alt="Image 1" style="width:290px;"><br>
