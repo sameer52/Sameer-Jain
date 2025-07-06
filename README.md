@@ -190,8 +190,9 @@ Comprehensive Linux experience spanning desktop and embedded systems, including 
             <!-- * -->
         </td>
         <td style="text-align:center;">
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/linux-projects/Kubuntu_24.10_desktop_screenshot.png" alt="Image 1" style="width:290px;"><br>
-          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/linux-projects/neon-grub-menu.jpg" alt="Image 1" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/linux-projects/Kubuntu_24.10_desktop_screenshot.png" alt="KDE-DE" style="width:290px;"><br>
+          <img src="https://github.com/sameer52/images-icons-data/blob/main/images/linux-projects/neon-grub-menu.jpg" alt="GRUB-Menu" style="width:290px;"><br>
+          <img src="" alt="OPi-NAS" style="width:290px;"><br>
         </td>
       </tr>
     </table>
