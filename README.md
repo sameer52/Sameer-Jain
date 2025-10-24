@@ -254,7 +254,6 @@ PROJECT DESCRIPTION HERE
     <table style="width:100%; border:none; border-collapse:collapse;">
       <tr>
         <td style="vertical-align:middle;">
-            &nbsp;
             <li>Developed a standalone Java application that automates web data extraction and Excel report generation.</li>
             &nbsp;
             <li>Used <b>Selenium</b> to collect structured information from dynamic websites and export it into formatted Excel files with <b>Apache POI</b>.</li>
