@@ -207,19 +207,21 @@ Performed FEM and CFD simulations to evaluate structural, thermal, and fluid per
     <table style="width:100%; border:none; border-collapse:collapse;">
       <tr>
         <td style="vertical-align:middle;">
-            <li></li>
-            &nbsp;
-            <li></li>
-            &nbsp;
-            <li></li>
-            &nbsp;
-            <li></li>
-            &nbsp;
-            <li></li>
-            &nbsp;
-            <li></li>
-            &nbsp;
-            <li></li>
+            <li>Completed multiple projects and academic assignments involving computational fluid dynamics (CFD) simulations in <b>SolidWorks Flow Simulation</b>.</li>
+        &nbsp;
+        <li>Performed steady-state and transient flow analyses to study <b>pressure, velocity, and temperature distributions</b> across complex geometries.</li>
+        &nbsp;
+        <li>Simulated <b>internal and external flows</b>, including ducting systems, cooling enclosures, aerodynamic surfaces, and fluid mixing devices.</li>
+        &nbsp;
+        <li>Optimized designs by comparing simulation results across multiple configurations to improve <b>efficiency, heat dissipation, and flow uniformity</b>.</li>
+        &nbsp;
+        <li>Defined and applied appropriate <b>boundary conditions, meshing strategies, and turbulence models</b> for each simulation scenario.</li>
+        &nbsp;
+        <li>Validated CFD results using theoretical calculations and engineering principles to ensure simulation accuracy and reliability.</li>
+        &nbsp;
+        <li>Created detailed <b>technical reports and visual presentations</b> to communicate results, highlight performance improvements, and justify design decisions.</li>
+        &nbsp;
+        <li><b>Technologies:</b> SolidWorks Flow Simulation, CAD Modeling, Fluid Mechanics, Heat Transfer, Turbulence Modeling, Design Optimization</li>
         </td>
         <td style="text-align:center;">
           <img src="https://github.com/sameer52/images-icons-data/blob/main/images/analysis-projects/tauno-cover-analysis-results.png" alt="Image 1" style="width:290px;"><br>
