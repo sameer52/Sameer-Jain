@@ -248,6 +248,27 @@ Performed FEM and CFD simulations to evaluate structural, thermal, and fluid per
 
 PROJECT DESCRIPTION HERE
 
+<ul>
+  <details>
+  <summary><strong><i>MORE ABOUT THIS PROJECT!</i></strong></summary>
+    <table style="width:100%; border:none; border-collapse:collapse;">
+      <tr>
+        <td style="vertical-align:middle;">
+            <li>Web Scraping: Implemented using Selenium and Jsoup to collect data from dynamically loaded web pages.</li>
+            &nbsp;
+            <li>Automation: Automated the process of reading, cleaning, and exporting data using Apache POI for Excel integration.</li>
+            &nbsp;
+            <li>Error Handling: Added retry logic and user-friendly logging to handle network delays, missing elements, and inconsistent page structures.</li>
+            &nbsp;
+            <li>Result: Reduced manual data collection time from hours to minutes, with repeatable, one-click operation.</li>
+            &nbsp;
+            <li>Key Skills: Java, Selenium, Jsoup, Apache POI, Multithreading, Exception Handling, Data Parsing</li>
+        </td>
+      </tr>
+    </table>
+  </details>
+</ul>
+
 [![Skills](https://img.shields.io/badge/GitHub-PROJECT_LINK_|_Click_Me!-82DFC6)](https://github.com/sameer52/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Skills](https://img.shields.io/badge/OSF-PROJECT_LINK_|_Click_Me!-82DFC6)](https://osf.io/hv5g8/) <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="18"/>
 
