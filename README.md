@@ -254,15 +254,22 @@ PROJECT DESCRIPTION HERE
     <table style="width:100%; border:none; border-collapse:collapse;">
       <tr>
         <td style="vertical-align:middle;">
-            <li>Web Scraping: Implemented using Selenium and Jsoup to collect data from dynamically loaded web pages.</li>
             &nbsp;
-            <li>Automation: Automated the process of reading, cleaning, and exporting data using Apache POI for Excel integration.</li>
+            <li>Developed a standalone Java application that automates web data extraction and Excel report generation.</li>
             &nbsp;
-            <li>Error Handling: Added retry logic and user-friendly logging to handle network delays, missing elements, and inconsistent page structures.</li>
+            <li>Used <b>Selenium</b> to collect structured information from dynamic websites and export it into formatted Excel files with <b>Apache POI</b>.</li>
             &nbsp;
-            <li>Result: Reduced manual data collection time from hours to minutes, with repeatable, one-click operation.</li>
+            <li>Designed a <b>Swing-based graphical interface</b> that allows users to select parameters, monitor progress, and save reports with ease.</li>
             &nbsp;
-            <li>Key Skills: Java, Selenium, Jsoup, Apache POI, Multithreading, Exception Handling, Data Parsing</li>
+            <li>Packaged the program as a <b>portable JAR executable</b>, ensuring cross-platform compatibility and simple deployment.</li>
+            &nbsp;
+            <li>Authored comprehensive <b>Javadocs</b> and a detailed <b>project manual</b> describing the system’s architecture, history, purpose, maintenance steps, and usage instructions.</li>
+            &nbsp;
+            <li>Focused on reliability and scalability by implementing modular code, exception handling, and retry logic for unstable network conditions.</li>
+            &nbsp;
+            <li>Reduced manual data collection time by over 90%, while providing a maintainable foundation for future automation tasks.</li>
+            &nbsp;
+            <li><b>Technologies:</b> Java, Selenium, Apache POI, Swing, Object-Oriented Design, Automation</li>
         </td>
       </tr>
     </table>
